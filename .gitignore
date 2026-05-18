@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# PDFs are large — keep extracted .txt, optionally exclude originals
+# Uncomment if you don't want to commit binary PDFs:
+# sources/pdfs/*.pdf
+
+# Editor
+.vscode/
+.idea/
+*.swp
