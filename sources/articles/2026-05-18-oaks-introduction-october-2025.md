@@ -8,7 +8,6 @@ published: 2025-10
 ingested: 2026-05-18
 tags: [lds, general-conference, oaks, nelson, prophet-succession, quorum-of-the-twelve]
 ---
-
 # Introduction (October 2025 General Conference)
 
 **Speaker:** Dallin H. Oaks, President of the Quorum of the Twelve Apostles

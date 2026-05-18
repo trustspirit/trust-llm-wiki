@@ -8,7 +8,6 @@ published: 2026-02-10
 ingested: 2026-05-18
 tags: [lds, byu-devotional, oaks, faith, scientific-method, spiritual-method, prophet]
 ---
-
 # Coming Closer to Jesus Christ
 
 **Speaker:** President Dallin H. Oaks, 18th President of The Church of Jesus Christ of Latter-day Saints
@@ -16,19 +15,6 @@ tags: [lds, byu-devotional, oaks, faith, scientific-method, spiritual-method, pr
 **Event:** BYU Devotional
 
 ---
-
-Home > Speeches > Dallin H. Oaks > **Coming Closer to Jesus Christ**
-
-*
-
-
-
-
-
-
-**
-Click to copy link
-Speech link copiedDevotional
 
 # Coming Closer to Jesus Christ
 
@@ -38,31 +24,6 @@ Dallin H. Oaks
 President of The Church of Jesus Christ of Latter-day Saints
 
 February 10, 2026
-
-Your browser does not support the audio element
-
-Your browser does not support the audio element
-
-Audio
-
-0:00/21:58
-
-Speed Click below to adjust the playback speed.
-
-0.5x0.75x1.0x1.25x1.5x1.75x2.0x
-
-0:00Full VideoHighlight Video
-
-
-
-
-
-
-
-
-
-Click to copy link
-Speech link copied
 
 Whatever those doubts, the way to overcome them is to get closer to our Savior Jesus Christ. Again and again, He has taught us that He is the way.
 

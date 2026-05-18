@@ -6,7 +6,6 @@ author: The Church of Jesus Christ of Latter-day Saints
 ingested: 2026-05-18
 tags: [lds, general-handbook, ai-policy, official-doctrine, callings, re-extraction]
 ---
-
 # General Handbook §38.8.48 — Appropriate Use of Artificial Intelligence
 
 > **Provenance**: Text provided by the user in the current session, re-confirmed as **§38.8.48** (numbered as 38.8.48 and sub-sections 38.8.48.1 / .2 / .3 in the Handbook). This re-extraction is created per SCHEMA.md anti-pattern guidance ("If extraction was wrong, write a corrected re-extraction as a new note in `sources/notes/`") because:

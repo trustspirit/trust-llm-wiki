@@ -8,7 +8,6 @@ published: 2009-05-03
 ingested: 2026-05-18
 tags: [lds, moral-agency, digital-ethics, embodiment, second-life, byu-idaho]
 ---
-
 # Things as They Really Are
 
 By Elder David A. Bednar, of the Quorum of the Twelve Apostles

@@ -8,7 +8,6 @@ published: 2025-10-21
 ingested: 2026-05-18
 tags: [ai-ethics, religion, ai-governance, lds, vatican, agi, benchmarking]
 ---
-
 # Faith, Respect, and Moral Compass in an Age of Artificial Intelligence
 
 **By Elder Gerrit W. Gong of the Quorum of the Twelve Apostles**

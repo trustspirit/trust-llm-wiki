@@ -8,7 +8,6 @@ published: 2018-04-01
 ingested: 2026-05-18
 tags: [lds, general-conference, personal-revelation, prophet, holy-ghost, sustaining-of-officers]
 ---
-
 # Revelation for the Church, Revelation for Our Lives
 
 **Speaker:** President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints

@@ -8,44 +8,6 @@ published: 2025-01-28
 ingested: 2026-05-18
 tags: [vatican, ai-ethics, ai-and-faith, antiqua-et-nova, theology, magisterium]
 ---
-
-*
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[DE
--
-EN -
-ES -
-FR -
-IT]
-
 DICASTERY FOR THE DOCTRINE OF THE FAITH**
 
 **DICASTERY FOR CULTURE AND EDUCATION
@@ -1389,12 +1351,8 @@ Memorial of Saint Thomas Aquinas, Doctor of the Church.
 
  
 
-**
-
 *Ex audientia die 14 ianuarii 2025**
 Franciscus*
-
-
 
 Contents**
 

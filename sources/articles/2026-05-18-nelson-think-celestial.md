@@ -8,7 +8,6 @@ published: 2023-10-01
 ingested: 2026-05-18
 tags: [lds, general-conference, prophet, celestial-thinking, addiction, personal-revelation, temples]
 ---
-
 # Think Celestial!
 
 **Speaker:** President Russell M. Nelson, President of The Church of Jesus Christ of Latter-day Saints
@@ -76,83 +75,43 @@ Spending more time in the temple builds faith. And your service and worship in t
 
 The ordinances and covenants of the temple are of eternal significance. We continue to build more temples to make these sacred possibilities become a reality in each of your lives. We are grateful to announce our plans to build a temple in each of the following 20 locations:
 
--
-
 Savai’i, Samoa
-
--
 
 Cancún, Mexico
 
--
-
 Piura, Peru
-
--
 
 Huancayo, Peru
 
--
-
 Viña del Mar, Chile
-
--
 
 Goiânia, Brazil
 
--
-
 João Pessoa, Brazil
-
--
 
 Calabar, Nigeria
 
--
-
 Cape Coast, Ghana
-
--
 
 Luanda, Angola
 
--
-
 Mbuji-Mayi, Democratic Republic of the Congo
-
--
 
 Laoag, Philippines
 
--
-
 Osaka, Japan
-
--
 
 Kahului, Maui, Hawaii
 
--
-
 Fairbanks, Alaska
-
--
 
 Vancouver, Washington
 
--
-
 Colorado Springs, Colorado
-
--
 
 Tulsa, Oklahoma
 
--
-
 Roanoke, Virginia
-
--
 
 Ulaanbaatar, Mongolia
 

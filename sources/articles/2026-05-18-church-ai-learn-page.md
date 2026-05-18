@@ -7,7 +7,6 @@ author: The Church of Jesus Christ of Latter-day Saints
 ingested: 2026-05-18
 tags: [lds, ai-guiding-principles, ai-working-group, official-doctrine]
 ---
-
 # Artificial Intelligence (Church Learn page)
 
 > Official Church landing page at `AI.ChurchofJesusChrist.org` summarizing the Church's stance on AI and pointing to the *Principles for Church Use of Artificial Intelligence*. Available in 10+ languages.

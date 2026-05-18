@@ -8,7 +8,6 @@ published: 2025-12-16
 ingested: 2026-05-18
 tags: [lds, general-handbook, ai-policy, newsroom, handbook-update]
 ---
-
 # Church Handbook Offers Enduring Guidance on Artificial Intelligence
 
 The Church of Jesus Christ of Latter-day Saints has updated its “General Handbook” to include principled guidance on the use of artificial intelligence.
@@ -28,8 +27,6 @@ The handbook also offers four principles to guide Latter-day Saints in the appro
 - Leaders should not rely upon AI to provide advice to members on medical, financial, legal, or other sensitive matters. If members need assistance beyond the spiritual guidance provided by Church leaders, competent professionals may be helpful.
 
 - Sensitive information, such as Church records, personal member data, or confidential communications, should not be entered into AI tools that are not provided or managed by the Church.
-
-
 
 In addition to this handbook update, Church leaders have taught the same principles about AI on several occasions over the past two years.
 

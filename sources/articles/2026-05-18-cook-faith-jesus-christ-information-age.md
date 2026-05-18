@@ -6,65 +6,35 @@ url: https://speeches.byu.edu/talks/quentin-l-cook/faith-in-jesus-christ-in-the-
 author: Quentin L. Cook
 published: 2026-03-03
 ingested: 2026-05-18
-tags: [lds, byu-devotional, ai-age, information-age, oaks, nelson, prophets, deception]
+tags:
+  [
+    lds,
+    byu-devotional,
+    ai-age,
+    information-age,
+    oaks,
+    nelson,
+    prophets,
+    deception,
+  ]
 ---
-
 # Faith in Jesus Christ in the Information Age
 
 **Speaker:** Elder Quentin L. Cook of the Quorum of the Twelve Apostles
 **Date:** March 3, 2026
 **Event:** BYU Devotional
 
----
-
-Home > Speeches > Quentin L. Cook > **Faith in Jesus Christ in the Information Age**
-
-*
-
-
-
-
-
-
-**
-Click to copy link
-Speech link copiedDevotional
-
 # Faith in Jesus Christ in the Information Age
 
 ##
+
 Quentin L. Cook
 
 of the Quorum of the Twelve Apostles
 
 March 3, 2026
 
-Your browser does not support the audio element
-
-Your browser does not support the audio element
-
-Audio
-
-0:00/26:21
-
-Speed Click below to adjust the playback speed.
-
-0.5x0.75x1.0x1.25x1.5x1.75x2.0x
-
-0:00Full VideoHighlight Video
-
-
-
-
-
-
-
-
-
-Click to copy link
-Speech link copied
-
-In a world where so much information is available, it is increasingly important to be certain that what we accept as truth is grounded in eternal principles. **
+In a world where so much information is available, it is increasingly important to be certain that what we accept as truth is grounded in eternal principles. \*\*
 
 I loved President Dallin H. Oaks’s prophetic message on February 10 here at BYU. What a blessing to hear from a former BYU student who later served as president of Brigham Young University and who is now our prophet. His message was truly inspirational. I loved his counsel for you to strengthen your faith, increase your humility, seek help from others, and be patient.
 
@@ -92,7 +62,7 @@ I reflected on the time that our law firm was representing a client in 1977. I w
 
 Our client had informed me that the computer Wozniak had developed was exceptional. With my lack of knowledge about that kind of information technology, I had no idea how successful this new company would be. However, even some who were experienced in technology could not foresee Apple’s ultimate success.
 
-Jobs and Wozniak had been employed by Atari, a pioneer in video-game technology that had released *Pong* in 1972. The founder of Atari, Nolan Bushnell, later acknowledged that Jobs and Wozniak had offered him a 33 percent stake in Apple for a $50,000 investment in 1976. An article in *Fortune* last August estimated that this investment would now be worth nearly $1 trillion. Despite Atari’s employer experience, Bushnell declined the offer.
+Jobs and Wozniak had been employed by Atari, a pioneer in video-game technology that had released _Pong_ in 1972. The founder of Atari, Nolan Bushnell, later acknowledged that Jobs and Wozniak had offered him a 33 percent stake in Apple for a $50,000 investment in 1976. An article in _Fortune_ last August estimated that this investment would now be worth nearly $1 trillion. Despite Atari’s employer experience, Bushnell declined the offer.
 
 My client made the same decision, even though he thought the Apple computer was a good product. He did not think it was a good long-term alignment for him.
 
@@ -148,7 +118,7 @@ The doctrine of the restored gospel is just as applicable to the information age
 
 In a world in which so much information is available, it is increasingly important to be certain that what we accept as truth is grounded in eternal principles. The Lord’s scriptures, especially the Book of Mormon, will be even more important in our day than they were for prior generations. Because the Book of Mormon is so powerful and so important, there will always be those who disparage or attack the Book of Mormon.
 
-Some have used humor to disparage the Book of Mormon. I can remember before my mission when a university professor of American literature quoted Mark Twain’s pronouncement in *Roughing It* that if you took the phrase “and it came to pass” out of the Book of Mormon, the book “would have been only a pamphlet.” I could see that his comments concerned some of my classmates.
+Some have used humor to disparage the Book of Mormon. I can remember before my mission when a university professor of American literature quoted Mark Twain’s pronouncement in _Roughing It_ that if you took the phrase “and it came to pass” out of the Book of Mormon, the book “would have been only a pamphlet.” I could see that his comments concerned some of my classmates.
 
 It was interesting to me that a few months later, while I was serving a mission in London, England, that another professor, a distinguished Oxford-educated teacher at London University, took exactly the opposite position. Dr. Ebeid Sarofim, an Egyptian by birth and an expert in Semitic languages, read a copy of the Book of Mormon that he had discovered by chance and sent a letter to President David O. McKay asking for permission to be baptized. President McKay referred him to the London mission home.
 
@@ -164,7 +134,7 @@ President Russell M. Nelson taught, “In coming days, it will not be possible t
 
 In his February 2026 devotional here at BYU, President Oaks referenced this counsel from President Nelson and encouraged you to seek truth. President Oaks noted:
 
-*We are grateful to know that there are two methods of gaining needed knowledge: (1) the evolving disclosures of man discovered by the scientific method and (2) the truths disclosed by the spiritual method, which **begins with faith in God and relies on scriptures, inspired** teaching, and personal revelation. There is no **ultimate conflict between knowledge gained by these **different methods because God, our omnipotent Eternal Father, knows all truth and beckons us to learn by both methods**.*
+_We are grateful to know that there are two methods of gaining needed knowledge: (1) the evolving disclosures of man discovered by the scientific method and (2) the truths disclosed by the spiritual method, which **begins with faith in God and relies on scriptures, inspired** teaching, and personal revelation. There is no **ultimate conflict between knowledge gained by these **different methods because God, our omnipotent Eternal Father, knows all truth and beckons us to learn by both methods\*\*._
 
 President Oaks then emphasized advice from Elder Richard L. Evans: “God has not told us all he knows.”
 
@@ -208,7 +178,7 @@ President Dallin H. Oaks is the prophet the Lord has prepared for our day. Throu
 
 President Oaks is an almost perfect example of something he has taught for many years: striving to become what we ought to become. He has taught:
 
-*The Final Judgment is not just an evaluation of a sum total of good and evil acts. . . . It is an acknowledgment of the final effect of our acts and thoughts—what we have ****become******.***
+\*The Final Judgment is not just an evaluation of a sum total of good and evil acts. . . . It is an acknowledgment of the final effect of our acts and thoughts—what we have \***\*become\*\*\*\***.\*\*\*
 
 My counsel to you is to listen to and follow the prophet, filter out the loud and confusing noise, and follow the Spirit. In this uniquely challenging time as we enter the artificial intelligence world, you would be wise to study the scriptures and follow the Lord’s prophet and follow Jesus Christ.
 
@@ -240,67 +210,67 @@ I testify of the reality of the Savior’s Atonement and of the divinity of Jesu
 
 9. Mike Markkula, who had provided funding to Apple in late 1976, was also present during our negotiations.
 
-10. See Mo Mozuch, “Key Moments in the History of Video Games (and No, ‘Pong’ Wasn’t First); How Video Games Became the World’s Most Profitable Pastime—from ‘Spacewar’ to ‘Roblox,’” Wall Street Journal,* 9 February 2026.
+10. See Mo Mozuch, “Key Moments in the History of Video Games (and No, ‘Pong’ Wasn’t First); How Video Games Became the World’s Most Profitable Pastime—from ‘Spacewar’ to ‘Roblox,’” Wall Street Journal,\* 9 February 2026.
 
-11. See Emma Burleigh, “Steve Jobs’ First Silicon Valley Boss Turned Down an Offer to Buy a Third of Apple for $50,000—Today, His Share Would Be Worth Nearly $1 Trillion,” *Fortune,* 15 August 2025, fortune.com/2025/08/15/nolan-bushnell-atari-boss-apple-steve-jobs-offer-trillion-dollars-personal-finance-youtube-cofounders.
+11. See Emma Burleigh, “Steve Jobs’ First Silicon Valley Boss Turned Down an Offer to Buy a Third of Apple for $50,000—Today, His Share Would Be Worth Nearly $1 Trillion,” _Fortune,_ 15 August 2025, fortune.com/2025/08/15/nolan-bushnell-atari-boss-apple-steve-jobs-offer-trillion-dollars-personal-finance-youtube-cofounders.
 
-12. See Taylor Telford, “In Shift, Trade Workers Gain Edge in Labor Market,” *Washington Post,* 31 January 2026.
+12. See Taylor Telford, “In Shift, Trade Workers Gain Edge in Labor Market,” _Washington Post,_ 31 January 2026.
 
 13. Shultz, “The Shape, Scope, and Consequences of the Age of Information.”
 
 14. See Alma 37:6.
 
-15. See Bernard Haw, *Walking in Wilford Woodruff’s Footsteps* (privately published, Malvern, United Kingdom, February 2025), 38. Only a few copies of this book are in existence.
+15. See Bernard Haw, _Walking in Wilford Woodruff’s Footsteps_ (privately published, Malvern, United Kingdom, February 2025), 38. Only a few copies of this book are in existence.
 
-16. See Bernard Haw, *Walking in Wilford Woodruff’s Footsteps,* 146. From the journals of Wilford Woodruff, we read:
+16. See Bernard Haw, _Walking in Wilford Woodruff’s Footsteps,_ 146. From the journals of Wilford Woodruff, we read:
 
-*We took coach at Cheltenham . . . and rode 40 miles. . . . We arrived at the Faringdon Road Station and took the cars for London. . . . After traveling 70 miles on the railroad, we were landed at the city of London . . . , making 110 miles from Cheltenham to London, which we traveled in 7 hours and did not stop more than two minutes at any time.* [“Journal (January 1, 1840–December 31, 1840),” 18 August 1840, Wilford Woodruff Papers, transcript, 158, wilfordwoodruffpapers.org/documents/a304ab9d-910a-40ea-a121-858616d49cff/page/862ba622-b286-4fbc-b4e0-5e182a3b7f04; text modernized]
+_We took coach at Cheltenham . . . and rode 40 miles. . . . We arrived at the Faringdon Road Station and took the cars for London. . . . After traveling 70 miles on the railroad, we were landed at the city of London . . . , making 110 miles from Cheltenham to London, which we traveled in 7 hours and did not stop more than two minutes at any time._ [“Journal (January 1, 1840–December 31, 1840),” 18 August 1840, Wilford Woodruff Papers, transcript, 158, wilfordwoodruffpapers.org/documents/a304ab9d-910a-40ea-a121-858616d49cff/page/862ba622-b286-4fbc-b4e0-5e182a3b7f04; text modernized]
 
 Mary and I made the same trip in two hours on a modern train!
 
-17. David O. McKay, *CR,* April 1964, 5; quoting from James Edward McCulloch, *Home: The Savior of Civilization* (Washington, DC: Southern Co-operative League, 1924), 42. See also McKay, *CR,* April 1935, 116.
+17. David O. McKay, _CR,_ April 1964, 5; quoting from James Edward McCulloch, _Home: The Savior of Civilization_ (Washington, DC: Southern Co-operative League, 1924), 42. See also McKay, _CR,_ April 1935, 116.
 
-18. Dallin H. Oaks, “The Challenge to Become,” *Ensign,* November 2000; referring to the teachings of Elder Robert D. Hales (see “The Covenant of Baptism: To Be in the Kingdom and of the Kingdom,” *Ensign,* November 2000).
+18. Dallin H. Oaks, “The Challenge to Become,” _Ensign,_ November 2000; referring to the teachings of Elder Robert D. Hales (see “The Covenant of Baptism: To Be in the Kingdom and of the Kingdom,” _Ensign,_ November 2000).
 
-19. Mark Twain (Samuel L. Clemens), *Roughing It* (1872), 128 (chapter 16); see also 127.
+19. Mark Twain (Samuel L. Clemens), _Roughing It_ (1872), 128 (chapter 16); see also 127.
 
 Each new generation is presented with Twain’s comment as if it is a new, significant discovery. There is usually little reference to the fact that Mark Twain was equally dismissive of Christianity and religion in general. When this kind of remark is made as humor, it is probably best to join in the amusement.
 
-20. I met Dr. Ebeid Sarofim in London when the elders were teaching him (see N. Eldon Tanner, *CR,* April 1962, 53). Many scholars of ancient Semitic/Egyptian writings have noted the repetitive use of the conjunctive phrase “and it came to pass” at the beginning of sentences. See also “It Came to Pass” in part 2, section 6, in Hugh Nibley, *Since Cumorah,* 2nd ed., vol. 7, *The Collected Works of Hugh Nibley* (Salt Lake City and Provo: Deseret Book and Foundation for Ancient Research and Mormon Studies [F.A.R.M.S.], 1988), 150.
+20. I met Dr. Ebeid Sarofim in London when the elders were teaching him (see N. Eldon Tanner, _CR,_ April 1962, 53). Many scholars of ancient Semitic/Egyptian writings have noted the repetitive use of the conjunctive phrase “and it came to pass” at the beginning of sentences. See also “It Came to Pass” in part 2, section 6, in Hugh Nibley, _Since Cumorah,_ 2nd ed., vol. 7, _The Collected Works of Hugh Nibley_ (Salt Lake City and Provo: Deseret Book and Foundation for Ancient Research and Mormon Studies [F.A.R.M.S.], 1988), 150.
 
 21. See Moroni 10:4–5.
 
-22. Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” *Ensign,* May 2018.
+22. Russell M. Nelson, “Revelation for the Church, Revelation for Our Lives,” _Ensign,_ May 2018.
 
 coming 23. See Oaks, “Coming Closer to Jesus Christ.”
 
 24. Oaks, “Coming Closer to Jesus Christ.”
 
-25. Richard L. Evans, *CR,* April 1961, 76; quoted in Oaks, “Coming Closer to Jesus Christ.”
+25. Richard L. Evans, _CR,_ April 1961, 76; quoted in Oaks, “Coming Closer to Jesus Christ.”
 
 26. Moses 1:39.
 
-27. In 1966, the first caution label appeared on cigarette packs in the United States, telling smokers, “Caution: Cigarette Smoking May Be Hazardous to Your Health” (*Reducing the Health Consequences **of Smoking: 25 Years of Progress: A Report of the Surgeon General,* DHHS publication no. [CDC] 89-8411 [Rockville, Maryland: U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control, Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 1989], 475, stacks.cdc.gov/view/cdc/13240).
+27. In 1966, the first caution label appeared on cigarette packs in the United States, telling smokers, “Caution: Cigarette Smoking May Be Hazardous to Your Health” (_Reducing the Health Consequences \*\*of Smoking: 25 Years of Progress: A Report of the Surgeon General,_ DHHS publication no. [CDC] 89-8411 [Rockville, Maryland: U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control, Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 1989], 475, stacks.cdc.gov/view/cdc/13240).
 
-28. See George E. Vaillant, *Triumphs of Experience: **The Men of the Harvard Grant Study* (Cambridge, Massachusetts: Belknap Press of Harvard University Press, 2012).
+28. See George E. Vaillant, _Triumphs of Experience: \*\*The Men of the Harvard Grant Study_ (Cambridge, Massachusetts: Belknap Press of Harvard University Press, 2012).
 
 Initially there were 268 men who were attending Harvard University and who were periodically studied over their entire lives. Others, including women, later became part of the study. The goal of the original study was to find out about success and happiness. The study showed that college entrance scores and grade averages did not predict either success or happiness in later life.
 
-By comparison, a separate long-term study of active Church members was very positive (see James E. Enstrom and Lester Breslow, “Lifestyle and Reduced Mortality Among Active California Mormons, 1980–2004,” *Preventive Medicine* 46, no. 2 [February 2008]: 133–36).
+By comparison, a separate long-term study of active Church members was very positive (see James E. Enstrom and Lester Breslow, “Lifestyle and Reduced Mortality Among Active California Mormons, 1980–2004,” _Preventive Medicine_ 46, no. 2 [February 2008]: 133–36).
 
 29. See Lydia Saad, “U.S. Drinking Rate at New Low as Alcohol Concerns Surge,” Wellbeing, Gallup News, 13 August 2025, news.gallup.com/poll/693362/drinking-rate-new-low-alcohol-concerns-surge.aspx.
 
 30. See Saad, “U.S. Drinking Rate at New Low.”
 
-31. See Jed Woodworth, “The Word of Wisdom: D&C 89,” in Matthew McBride and James Goldberg, eds., *Revelations in Context: The Stories Behind the Sections of the Doctrine and Covenants* (Salt Lake City: Church of Jesus Christ, 2016), 183–91; also Woodworth, “The Word of Wisdom: D&C 89,” Revelations in Context, Gospel Library, Church of Jesus Christ, churchofjesuschrist.org/study/manual/revelations-in-context/the-word-of-wisdom.
+31. See Jed Woodworth, “The Word of Wisdom: D&C 89,” in Matthew McBride and James Goldberg, eds., _Revelations in Context: The Stories Behind the Sections of the Doctrine and Covenants_ (Salt Lake City: Church of Jesus Christ, 2016), 183–91; also Woodworth, “The Word of Wisdom: D&C 89,” Revelations in Context, Gospel Library, Church of Jesus Christ, churchofjesuschrist.org/study/manual/revelations-in-context/the-word-of-wisdom.
 
-In 1921, the Lord inspired President Heber J. Grant to call on all Saints to live the Word of Wisdom to the letter by completely abstaining from all alcohol, coffee, tea, and tobacco (see “Observing the Word of Wisdom,” chapter 21 in *Teachings of Presidents of the Church: Heber J. Grant* [Salt Lake City: Church of Jesus Christ, 2002], 189–97).
+In 1921, the Lord inspired President Heber J. Grant to call on all Saints to live the Word of Wisdom to the letter by completely abstaining from all alcohol, coffee, tea, and tobacco (see “Observing the Word of Wisdom,” chapter 21 in _Teachings of Presidents of the Church: Heber J. Grant_ [Salt Lake City: Church of Jesus Christ, 2002], 189–97).
 
 32. See Doctrine and Covenants 89.
 
 33. Doctrine and Covenants 82:3.
 
-34. Dieter F. Uchtdorf, “The Way of the Disciple,” *Ensign,* May 2009.
+34. Dieter F. Uchtdorf, “The Way of the Disciple,” _Ensign,_ May 2009.
 
 35. Oaks, “The Challenge to Become”; emphasis in original.
 

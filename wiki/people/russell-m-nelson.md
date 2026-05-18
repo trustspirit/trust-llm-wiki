@@ -36,7 +36,7 @@ sources: [sources/articles/2026-05-18-nelson-revelation-for-the-church.md, sourc
 
 ## "Revelation for the Church, Revelation for Our Lives" (2018-04-01)
 
-부활 주일 General Conference 강연. 본 위키 AI 클러스터에서 다수 인용되는 권위 source.
+부활 주일 General Conference 강연 [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md]. 본 위키 AI 클러스터에서 다수 인용되는 권위 source.
 
 ### 핵심 명제
 

@@ -7,117 +7,43 @@ author: Church Newsroom
 ingested: 2026-05-18
 tags: [lds, newsroom, cook, byu-devotional, ai-age, oaks]
 ---
-
 # Elder Cook: Follow the Prophets to Navigate the World of AI
 
 Elder Quentin L. Cook challenged Brigham Young University students on Tuesday to increase their spirituality to better navigate the world of artificial intelligence.
 
 “Choose truth when deception is easy,” the Apostle of The Church of Jesus Christ of Latter-day Saints told students gathered in the Marriott Center in Provo, Utah, on Tuesday, March 3, 2026. “Slow down enough to listen to the Spirit and allow Him to direct you. We must all learn to use technology as a servant, not a master. The future of the Church and our very civilization depend on members and individuals who have deep faith, moral courage, and the ability to navigate an increasingly complex world.”
 
-
-
  
 
--
 2603-02-116.jpg
 
-
-
-
-
-
--
 2603-02-060.JPG
 
-
-
-
-
-
--
 2603-02-152.jpg
 
-
-
-
-
-
--
 2603-02-086.jpg
 
-
-
-
-
-
--
 2603-02-069.JPG
 
-
-
-
-
-
--
 2603-02-111.jpg
 
-
-
-
-
-
--
 2603-02-153.jpg
 
-
-
-
-
-
--
 2603-02-098.jpg
 
-
-
-
-
-
--
 2603-02-125jpg.jpg
-
-
-
-
-
 
 items preserved as-is with optional microdata if needed -->
 
  
 
-
-
-
-
 Temple Square is always beautiful in the springtime. Gardeners work to prepare the ground for General Conference.
 © 2012 Intellectual Reserve, Inc. All rights reserved.
 
-
 1 / 2
 
-
-
-
-
-
-
-
-
  
  
-
-
-Download Photos
-
 
 Elder Cook emphasized a 2018 teaching from President Russell M. Nelson that was reaffirmed last month at the same BYU pulpit by his successor, President Dallin H. Oaks: “In coming days, it will not be possible to survive spiritually without the guiding, directing, comforting, and constant influence of the Holy Ghost.”
 

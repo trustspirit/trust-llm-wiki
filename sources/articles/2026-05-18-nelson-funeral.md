@@ -8,7 +8,6 @@ published: 2025-10
 ingested: 2026-05-18
 tags: [lds, newsroom, nelson, funeral, prophet-succession]
 ---
-
 # President Nelson Remembered for Decisive Leadership and Unwavering Testimony
 
 President Russell M. Nelson was honored Tuesday as a devoted husband, a loving father, and a dedicated disciple of the Lord Jesus Christ.
@@ -16,51 +15,6 @@ President Russell M. Nelson was honored Tuesday as a devoted husband, a loving f
 Four leaders of The Church of Jesus Christ of Latter-day Saints joined two of the prophet’s children in eulogizing him at his funeral in the Conference Center on Temple Square.
 
 “His writings and his influence and his example live on. And so does our grief at his passing,” said Dallin H. Oaks, President of the Quorum of the Twelve Apostles. He added that President Nelson’s life “bore witness of his committed testimony as a prophet and servant of the Lord Jesus Christ.”
-
-***Downloadable B-roll and SOTS***
-
-
-
- 
-
--
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-Temple Square is always beautiful in the springtime. Gardeners work to prepare the ground for General Conference.
-© 2012 Intellectual Reserve, Inc. All rights reserved.
-
-
-1 / 2
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-Download Photos
-
 
 President Oaks and Elder Henry B. Eyring, who served as President Nelson’s counselors, joined two of the prophet’s 10 children — daughter Laurie N. Marsh and son Russell M. Nelson Jr. — and Elder Jeffrey R. Holland of the Quorum of the Twelve Apostles and Relief Society General President Camille N. Johnson to pay tribute to the prophet’s life and teachings. The Tabernacle Choir at Temple Square performed the music, including “Our Prayer to Thee,” which President Nelson wrote.
 
@@ -78,254 +32,72 @@ President Nelson would then read aloud several verses from 3 Nephi 11, the porti
 
 “In all of this,” President Oaks added, “I recognized that I was seeing and hearing one of Israel’s most powerful missionaries in action.”
 
-
-
  
-
 
 20251007_120103_HWinterton_HMW_9604.jpeg
 
+- Image---2025-10-07T163620.355.jpeg
 
+- 20251007_130609_CPowell_65214.jpg
 
+- 20251007_110035_CBell_CMB_9686.JPG
 
+- 20251007_115954_CBell_CMB_0336.JPG
 
+- 20251007_110109_CBell_CMB_9935.JPG
 
--
-Image---2025-10-07T163620.355.jpeg
+- 20251007_125121_CPowell_65022.jpg
 
+- 20251007_125847_CPowell_65107.jpg
 
+- 20251007_113550_CBell_CMB_0498.JPG
 
+- 20251007_123825_CPowell_64831.jpg
 
+- 20251007_123053_CPowell_64751-1.jpg
 
+- 20251007_113238_CBell_CMB_0430.JPG
 
--
-20251007_130609_CPowell_65214.jpg
+- 20251007_111856_CBell_CMB_0262.JPG
 
+- 20251007_122354_CPowell_64663.jpg
 
+- 20251007_132016_HWinterton_HMW_0836.jpeg
 
+- 20251007_122336_CBell_CMB_0900.JPG
 
+- 20251007_102849_CBell_CMB_9283.JPG
 
+- 20251007_105905_HWinterton_HMW_8468.jpeg
 
--
-20251007_110035_CBell_CMB_9686.JPG
+- 20251007_114549_CPowell_CEP_7611.jpg
 
+- 20251007_112333_HWinterton_HMW_9012.jpeg
 
+- 20251007_101230_HWinterton_HMW_7183.jpeg
 
+- 20251007_105321_HWinterton_HMW_8197.jpeg
 
+- 20251007_110041_HWinterton_HMW_8679.jpeg
 
+- 20251007_103700_HWinterton_HMW_7999.jpeg
 
--
-20251007_115954_CBell_CMB_0336.JPG
+- 20251007_134145_DIsraelsen_OI_0325.jpeg
 
+- 20251007_125046_CPowell_65009.jpg
 
-
-
-
-
--
-20251007_110109_CBell_CMB_9935.JPG
-
-
-
-
-
-
--
-20251007_125121_CPowell_65022.jpg
-
-
-
-
-
-
--
-20251007_125847_CPowell_65107.jpg
-
-
-
-
-
-
--
-20251007_113550_CBell_CMB_0498.JPG
-
-
-
-
-
-
--
-20251007_123825_CPowell_64831.jpg
-
-
-
-
-
-
--
-20251007_123053_CPowell_64751-1.jpg
-
-
-
-
-
-
--
-20251007_113238_CBell_CMB_0430.JPG
-
-
-
-
-
-
--
-20251007_111856_CBell_CMB_0262.JPG
-
-
-
-
-
-
--
-20251007_122354_CPowell_64663.jpg
-
-
-
-
-
-
--
-20251007_132016_HWinterton_HMW_0836.jpeg
-
-
-
-
-
-
--
-20251007_122336_CBell_CMB_0900.JPG
-
-
-
-
-
-
--
-20251007_102849_CBell_CMB_9283.JPG
-
-
-
-
-
-
--
-20251007_105905_HWinterton_HMW_8468.jpeg
-
-
-
-
-
-
--
-20251007_114549_CPowell_CEP_7611.jpg
-
-
-
-
-
-
--
-20251007_112333_HWinterton_HMW_9012.jpeg
-
-
-
-
-
-
--
-20251007_101230_HWinterton_HMW_7183.jpeg
-
-
-
-
-
-
--
-20251007_105321_HWinterton_HMW_8197.jpeg
-
-
-
-
-
-
--
-20251007_110041_HWinterton_HMW_8679.jpeg
-
-
-
-
-
-
--
-20251007_103700_HWinterton_HMW_7999.jpeg
-
-
-
-
-
-
--
-20251007_134145_DIsraelsen_OI_0325.jpeg
-
-
-
-
-
-
--
-20251007_125046_CPowell_65009.jpg
-
-
-
-
-
-
--
-20251007_130047_CPowell_65134.jpg
-
-
-
-
-
-
-
+- 20251007_130047_CPowell_65134.jpg
 
  
-
-
-
-
 
 Temple Square is always beautiful in the springtime. Gardeners work to prepare the ground for General Conference.
 © 2012 Intellectual Reserve, Inc. All rights reserved.
 
-
 1 / 2
 
-
-
-
-
-
-
-
-
- 
  
 
-
-Download Photos
-
+ 
 
 President Oaks also described President Nelson’s leadership style. From their earliest days as a presidency in 2018, President Oaks said the prophet’s professional work as a surgeon was reflected in quick and decisive decision-making. In their first meeting, a question was raised about which member of the First Presidency would write the introductory page in the monthly “Ensign” magazine.
 
@@ -353,102 +125,36 @@ Elder Holland, who with his late wife, Pat, joined President Nelson on his first
 
 “He paid us perhaps the greatest ecclesiastical compliment I have ever received by inviting Pat and me to accompany them,” Elder Holland said. “No matter how tired he was on any trip, President Nelson was always perfectly groomed and carefully attired as he stepped off the plane, casting that patented Nelson smile on those he met and to whom he spoke. Having the opportunity to see him love the people and the people love him made for the most beautiful of memories. I have those memories in my heart even now, today, and forever.”
 
-
-
  
-
 
 20251007_145400_DIsraelsen_OI_0491.jpeg
 
+- 20251007_132137_CBell_CMB_1908.JPG
 
+- 20251007_132739_CBell_CMB_2464.JPG
 
+- 20251007_132708_CBell_CMB_2390.JPG
 
+- 20251007_132247_CBell_CMB_2050.JPG
 
+- 20251007_131715_CBell_CMB_1648.JPG
 
--
-20251007_132137_CBell_CMB_1908.JPG
+- 20251007_131547_CBell_CMB_1573.JPG
 
-
-
-
-
-
--
-20251007_132739_CBell_CMB_2464.JPG
-
-
-
-
-
-
--
-20251007_132708_CBell_CMB_2390.JPG
-
-
-
-
-
-
--
-20251007_132247_CBell_CMB_2050.JPG
-
-
-
-
-
-
--
-20251007_131715_CBell_CMB_1648.JPG
-
-
-
-
-
-
--
-20251007_131547_CBell_CMB_1573.JPG
-
-
-
-
-
-
--
-20251007_130649_CBell_CMB_1303.JPG
-
-
-
-
-
+- 20251007_130649_CBell_CMB_1303.JPG
 
 items preserved as-is with optional microdata if needed -->
 
  
 
-
-
-
-
 Temple Square is always beautiful in the springtime. Gardeners work to prepare the ground for General Conference.
 © 2012 Intellectual Reserve, Inc. All rights reserved.
 
-
 1 / 2
 
-
-
-
-
-
-
-
-
- 
  
 
-
-Download Photos
-
+ 
 
 For her part, President Johnson provided a peek at the prophet’s personal ministry to her. She noted, quoting a Book of Mormon prophet, that President Nelson was “quick to observe” and was blessed with the gift of discernment.
 

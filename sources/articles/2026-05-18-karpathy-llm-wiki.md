@@ -7,7 +7,6 @@ author: Andrej Karpathy
 ingested: 2026-05-18
 tags: [llm, knowledge-management, wiki, rag, obsidian]
 ---
-
 # LLM Wiki
 
 A pattern for building personal knowledge bases using LLMs.
@@ -78,7 +77,6 @@ The tedious part of maintaining a knowledge base is not the reading or the think
 The human's job is to curate sources, direct the analysis, ask good questions, and think about what it all means. The LLM's job is everything else.
 
 The idea is related in spirit to Vannevar Bush's Memex (1945) — a personal, curated knowledge store with associative trails between documents. Bush's vision was closer to this than to what the web became: private, actively curated, with the connections between documents as valuable as the documents themselves. The part he couldn't solve was who does the maintenance. The LLM handles that.
-
 
 ## Note
 

@@ -8,7 +8,6 @@ published: 2025-09-29
 ingested: 2026-05-18
 tags: [lds, newsroom, oaks, nelson, grand-blanc, tragedy, statement]
 ---
-
 # Statement from Dallin H. Oaks on Grand Blanc, Michigan Tragedy
 
 *Dallin H. Oaks, President of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, shared the following message on Church social media channels on Monday, September 29, 2025.*

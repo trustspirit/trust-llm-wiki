@@ -8,7 +8,6 @@ published: 2024-11-03
 ingested: 2026-05-18
 tags: [ai-ethics, lds, moral-agency, ai-companions, religion]
 ---
-
 # Things as They Really Are 2.0
 
 **Speaker:** Elder David A. Bednar

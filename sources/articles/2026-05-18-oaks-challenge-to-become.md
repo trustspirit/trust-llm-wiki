@@ -8,7 +8,6 @@ published: 2000-10
 ingested: 2026-05-18
 tags: [lds, general-conference, oaks, becoming, doing-vs-being, final-judgment]
 ---
-
 # The Challenge to Become
 
 **Speaker:** Elder Dallin H. Oaks (then of the Quorum of the Twelve Apostles)

@@ -8,7 +8,6 @@ published: 2025-07-29
 ingested: 2026-05-18
 tags: [ai-ethics, religion, ai-governance, religions-for-peace, istanbul, faith-community-ai-evaluation]
 ---
-
 # Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence: A Call to Action
 
 *This address was delivered on July 29, 2025, during the Religions for Peace World Council in Istanbul, Republic of Türkiye.*

@@ -8,7 +8,6 @@ published: 2026-02-01
 ingested: 2026-05-18
 tags: [lds, for-the-strength-of-youth, ai-ethics, moral-agency, ai-companions, magazine]
 ---
-
 # 7 Advantages You Have as a Latter-day Saint in the Age of Artificial Intelligence
 
 By David A. Edwards, Church Magazines

@@ -8,7 +8,6 @@ published: 2024-03-13
 ingested: 2026-05-18
 tags: [lds, ai-guiding-principles, deepfakes, church-workforce, gong, pingree]
 ---
-
 # The Church of Jesus Christ and Artificial Intelligence
 
 > See also: *Principles for Church Use of Artificial Intelligence*

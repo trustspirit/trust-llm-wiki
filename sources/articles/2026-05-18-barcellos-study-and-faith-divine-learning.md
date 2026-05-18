@@ -8,7 +8,6 @@ published: 2026-02-06
 ingested: 2026-05-18
 tags: [lds, byu-pathway, divine-learning-pattern, ai-deepfakes, gospel-study, holy-ghost]
 ---
-
 # "Study and Faith: The Pattern for Divine Learning"
 
 **Speaker:** Elder Ronald M. Barcellos, of the Seventy

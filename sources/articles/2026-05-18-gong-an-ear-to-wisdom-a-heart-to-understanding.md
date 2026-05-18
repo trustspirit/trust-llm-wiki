@@ -8,7 +8,6 @@ published: 2025-08-19
 ingested: 2026-05-18
 tags: [lds, ai-ethics, scripture, wisdom, byu-devotional, chatgpt]
 ---
-
 # An Ear to Wisdom, a Heart to Understanding
 
 **Speaker:** Gerrit W. Gong, Member of the Quorum of the Twelve Apostles

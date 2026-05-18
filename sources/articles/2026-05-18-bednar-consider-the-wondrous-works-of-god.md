@@ -8,7 +8,6 @@ published: 2024-01-23
 ingested: 2026-05-18
 tags: [lds, moral-agency, ai-ethics, righteous-work, byu-devotional]
 ---
-
 # "Consider the Wondrous Works of God" (Job 37:14)
 
 **Speaker:** David A. Bednar, Member of the Quorum of the Twelve Apostles
