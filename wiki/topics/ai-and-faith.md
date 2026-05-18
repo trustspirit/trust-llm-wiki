@@ -70,6 +70,9 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 | 2025-10-21 | Elder Gong, Rome Summit on Ethics and AI — [[faith-and-ethics-ai-evaluation]] 7 루브릭 + 4원칙 정식 제안 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md] |
 | 2026-02 | *For the Strength of Youth* "7 Advantages You Have as a Latter-day Saint in the Age of Artificial Intelligence" [source: sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md] |
 | 2026-02-06 | Elder Barcellos BYU-Pathway Worldwide Devotional "Study and Faith: The Pattern for Divine Learning" — [[deepfakes]] 시연 + [[divine-learning-pattern]] 정식화 [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md] |
+| 2018-04-01 | (선행) President Russell M. Nelson 첫 총회 강연 "Revelation for the Church, Revelation for Our Lives" — Elder Gong 사도 임명 발표, AI 시대 personal revelation의 권위 근거 [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md] |
+| 2025-01-28 | (선행) Vatican *[[antiqua-et-nova|Antiqua et Nova]]* 출판 — Pope Francis 2025-01-14 audience 승인. AI 신격화를 idolatry로 단정, AGI/AI Companions/Deepfakes에 대한 신학적 진단 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md] |
+| 2025-12-16 | (선행) Newsroom 보도 — *General Handbook* §38.8.47 "Appropriate Use of Artificial Intelligence" 업데이트 발표 [source: sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md] |
 
 ## See also
 
@@ -87,3 +90,4 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - [[ai-ethics]]
 - [[gerrit-gong]]
 - [[david-bednar]]
+- [[russell-m-nelson]]

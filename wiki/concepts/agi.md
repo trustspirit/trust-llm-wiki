@@ -3,7 +3,7 @@ title: AGI (Artificial General Intelligence)
 type: concept
 aliases: [AGI, ASI, artificial general intelligence, artificial super intelligence]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]
+sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
 ---
 
 # AGI (Artificial General Intelligence)
@@ -56,6 +56,18 @@ METR가 측정한 진보 속도 (Istanbul footnote viii): "the length of tasks A
 - [[faith-and-ethics-ai-evaluation]]
 - [[ai-ethics]]
 - [[rag]]
+
+## 바티칸 *Antiqua et Nova* (§V 104–107) — AGI 신격화 = 우상숭배
+
+[[antiqua-et-nova|*Antiqua et Nova*]]는 AGI에 대한 신학적 진단을 명시적으로 한다 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md]:
+
+- 일부 과학자·미래학자가 AGI에 낙관, "superhuman capabilities"까지 추측 — 동시에 사회가 transcendent 연결을 잃으면서 AI에서 의미·충족을 찾는 유혹이 증가.
+- **결정적 명제**: "*the presumption of substituting God for an artifact of human making is idolatry*" — 인간이 만든 인공물로 하나님을 대체하려는 시도는 우상숭배 (Ex 20:4; 32:1–5; 34:17 인용).
+- AI는 전통적 우상보다 더 유혹적일 수 있다 — 우상은 말 못 하지만 (Ps 115:5–6) AI는 말하는 illusion을 준다 (Rev 13:15 함축).
+- AI는 "a pale reflection of humanity" — 인간 정신이 만들고, 인간 자료로 훈련되고, 인간 입력에 반응하고, 인간 노동으로 유지됨.
+- 결국 AI를 신격화하는 것은 인간 자신을 신격화하는 것이며, 그 결과 인간이 자기 작품의 노예가 됨.
+
+> **Synthesis** (from: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md): Elder Gong의 "God is God. AI is not and cannot be God"와 *Antiqua et Nova*의 "substituting God for an artifact of human making is idolatry"는 같은 결론에 도달하는 두 신앙 전통 — Latter-day Saint와 Catholic이 AGI 신격화 거부에서 합의점.
 
 <!-- STALE-WATCH: AI competition stats (498 private AI companies / $2.7T aggregate value as of 2025-08, frontier model training cost $1-2B, $100M expert compensation, METR doubling-every-7-months curve) age fast. Recheck quarterly. -->
 

@@ -3,7 +3,7 @@ title: AI Companions
 type: concept
 aliases: [virtual companions, AI 동반자, AI girlfriend, AI boyfriend, AI chatbot companion]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md]
+sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
 ---
 
 # AI Companions
@@ -61,8 +61,21 @@ AI companions 등장 이전, Elder Bednar는 이미 cyberspace 관계의 동형 
 - 교회 차원: [[church-ai-guiding-principles]] study [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
 - 사회 차원: [[faith-and-ethics-ai-evaluation]]의 "human-centered" 루브릭이 직접 응답 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 
+## 바티칸 *Antiqua et Nova* (§V 56–63)의 평행 분석
+
+[[antiqua-et-nova|*Antiqua et Nova*]] §V "AI and Human Relationships"가 같은 현상을 다른 신앙 전통에서 분석 — 결론이 거의 동일하다는 점이 주목할 만하다 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md]:
+
+- AI는 "true encounter with reality"를 방해해 "deep and melancholic dissatisfaction with interpersonal relations, or a harmful sense of isolation"으로 이끌 수 있음.
+- "no AI application can genuinely experience empathy" — 감정은 표정·답변으로 환원될 수 없고 전인의 신체적 관계를 통해서만 작동.
+- AI를 사람으로 misrepresent하는 것은 "grave ethical violation" — 사회 신뢰를 침식.
+- 아동에 미치는 영향: 인간 관계를 "transactional"로 다루는 패턴 형성 위험.
+- AI에서 "deep human relationships, simple companionship, or even emotional bonds"를 찾는 것은 AI가 simulate만 가능한 영역 — 인간만이 "authentic relationships"를 경험하도록 만들어진 존재.
+
+> **Synthesis** (from: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md): Elder Bednar의 "AI companion is only a mathematical algorithm. It does not like you. It does not care about you"와 *Antiqua et Nova*의 "no AI application can genuinely experience empathy"는 사실상 동일한 명제 — 다원주의 신앙 합의의 한 사례.
+
 ## See also
 
+- [[antiqua-et-nova]]
 - [[things-as-they-really-are]]
 - [[moral-agency]]
 - [[david-bednar]]

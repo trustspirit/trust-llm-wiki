@@ -41,8 +41,24 @@ Elder Ronald M. Barcellos of the Seventy의 정식화 [source: sources/articles/
 - Elder Barcellos 본인의 브라질 선교사 시기(약 20세, São Paulo) *몰몬경* 진리 확증 체험 [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md].
 - 모로나이의 약속 (Moroni 10:3–5): 책을 받고 *마음으로* 묻는 자에게 성신이 진리를 *manifest* — 이 패턴의 정전적 사례 [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md].
 
+## President Nelson의 실용 절차 (1차 권위 source)
+
+[[russell-m-nelson|President Russell M. Nelson]] "Revelation for the Church, Revelation for Our Lives" (April 2018 General Conference, *Liahona*, May 2018)이 Barcellos 4단계와 구조적으로 동일한 personal revelation 절차를 정식화 [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md]:
+
+1. Find a quiet place where you can regularly go
+2. Humble yourself before God
+3. Pour out your heart to your Heavenly Father — concerns, fears, weaknesses, longings
+4. Listen — write the thoughts that come to mind, record feelings
+5. Follow through with actions prompted to take
+6. Repeat day after day, month after month, year after year → "grow into the principle of revelation"
+
+President Nelson의 결정적 명제 (AI 시대 적용 권위 근거): "If we are to have any hope of sifting through the myriad of voices and the philosophies of men that attack truth, we must learn to receive revelation" [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
+
+또한 천국이 열리는 5요소 조합: "increased purity, exact obedience, earnest seeking, daily feasting on the words of Christ in the Book of Mormon, and regular time committed to temple and family history work" [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
+
 ## See also
 
+- [[russell-m-nelson]]
 - [[deepfakes]]
 - [[moral-agency]]
 - [[things-as-they-really-are]]

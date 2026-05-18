@@ -3,7 +3,7 @@ title: Covenant Belonging
 type: concept
 aliases: [Thou-They-It-I, I-It-They-Thou, 언약적 소속]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]
+sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
 ---
 
 # Covenant Belonging
@@ -38,6 +38,16 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - 회복된 복음 교의 인용 (Doctrine and Covenants): "the spirit and the body are the soul of man" (D&C 88:15); "the elements are eternal, and spirit and element, inseparably connected, receive a fulness of joy" (D&C 93:33) — 인간을 영-육 결합체로 보는 이 입장이 *Antiqua et Nova* §III의 "the entire human person is simultaneously both material and spiritual"과 공명한다고 본다 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - "corporeality"라는 단어 자체가 embodied reality를 함의하므로 "artificial intelligence"는 본질적으로 거기에 도달할 수 없다는 함축 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - BYU 2025-08에서 추가 인용 — "The elements are the tabernacle of God; yea, man is the tabernacle of God, even temples" (D&C 93:35); "The glory of God is intelligence, or, in other words, light and truth" (D&C 93:36); "All truth is independent in that sphere in which God has placed it, to act for itself, as all intelligence also" (D&C 93:30). 이 세 절은 [[moral-agency]]의 영적 토대를 강화 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
+
+## 바티칸 *Antiqua et Nova* §III Relationality의 평행 명제
+
+[[antiqua-et-nova|*Antiqua et Nova*]] §III "Relationality" (18–20)가 같은 관계 신학을 다른 어휘로 다룬다 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md]:
+
+- 인간은 "by their very nature [...] ordered to interpersonal communion" — 인간 지능은 고립이 아니라 관계 속에서 작동.
+- 신과의 communion이 이웃과의 communion으로 연결 (Mt 22:37–39 두 큰 계명) — Elder Gong의 Istanbul 4원 관계와 직접 평행.
+- "Love and service, echoing the divine life of self-giving, transcend self-interest" (1 Jn 2:9; 1 Cor 13:2 인용).
+
+> **Synthesis** (from: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md): Elder Gong의 I-It-They-Thou (수직 Thou + 수평 They + 자기 I + 환경 It)와 *Antiqua et Nova*의 "communion with God + communion with others"는 같은 신학적 구조 — Latter-day Saint 4원 프레임이 Catholic의 두 큰 계명 신학을 확장한 형태.
 
 ## See also
 

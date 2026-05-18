@@ -26,6 +26,10 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
   - State Department 시절 George Shultz 국무장관이 "정보화 시대 외교의 형태·범위·결과"를 함께 모색하는 업무를 맡김 (Shultz, *The Shape, Scope, and Consequences of the Age of Information*, 1986)
 - 자칭 "international name": Gerrit (네덜란드), Walter (미국, 부친 이름), Gong (중국 성) — "household of faith 안의 global citizen" 정체성 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 
+## 십이사도 정원회 임명
+
+- 2018년 4월 1일 (부활 주일), President Russell M. Nelson의 첫 총회 강연 "Revelation for the Church, Revelation for Our Lives"에서 Elder Ulisses Soares와 함께 사도로 임명 공표 — "I testify that the Lord inspired the call of Elder Gerrit W. Gong and Elder Ulisses Soares to be ordained as His Apostles" [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
+
 ## AI 관련 교회 내 역할
 
 - Church Communication Committee 공동 의장 [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md].
@@ -63,7 +67,7 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 
 - [[covenant-belonging]] (Thou–They–It–I 또는 I-It-They-Thou 4원 관계)을 인간성과 [[moral-agency]]의 신학적 기반으로 제시 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 - BYU 2025-08에서 회복된 복음 교의 핵심 인용으로 활용: D&C 88:15, 93:30, 93:33, 93:35, 93:36 — 모두 [[ai-and-faith|AI의 본질적 한계]] 논증의 기반 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
-- President Russell M. Nelson의 가르침 인용: "The privilege of receiving revelation is one of the greatest gifts of God to His children" ("Revelation to the Church, Revelation for Our Lives," *Liahona*, May 2018, 94) — Istanbul에서 하나님·인간의 직접 교제의 우선성 논증에 사용 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
+- [[russell-m-nelson|President Russell M. Nelson]]의 가르침 인용: "The privilege of receiving revelation is one of the greatest gifts of God to His children" ("Revelation for the Church, Revelation for Our Lives," *Liahona*, May 2018, 94) — Istanbul에서 하나님·인간의 직접 교제의 우선성 논증에 사용 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
 - ChatGPT 출시 초기(2022 말) 가족 단위 실험 — [[chatgpt]] 페이지의 "Nuclear Paws", "Gong reunion" 일화 source [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 
 ## 제안 / 주도

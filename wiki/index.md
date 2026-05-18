@@ -14,6 +14,7 @@ updated: 2026-05-18
 - [[vannevar-bush]] — 1945년 [[memex]] 비전 제안자
 - [[gerrit-gong]] — 예수 그리스도 후기성도 교회 사도, [[faith-and-ethics-ai-evaluation]] 제안자
 - [[david-bednar]] — 예수 그리스도 후기성도 교회 사도, [[things-as-they-really-are]] 신학 프레임
+- [[russell-m-nelson]] — 예수 그리스도 후기성도 교회 회장, 2018 personal revelation 권위 강연
 
 ## Concepts
 
