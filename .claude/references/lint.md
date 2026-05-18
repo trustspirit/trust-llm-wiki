@@ -59,19 +59,37 @@ Script 동작 (`.claude/scripts/lint-uncited.py`):
 
 Naive grep (`grep -rn -E '[.!?]\s*$' wiki/ | grep -v '\[source:'`)은 false positive가 너무 많아 미사용.
 
-### 2.5. Source staleness
+### 2.5. 중복 / 근접 페이지 (frequency-aware)
+
+```bash
+python3 .claude/scripts/lint-duplicates.py
+# 특정 디렉토리만:
+python3 .claude/scripts/lint-duplicates.py wiki/concepts
+```
+
+Script 동작 (`.claude/scripts/lint-duplicates.py`):
+
+- 디렉토리별로 title + aliases 토큰을 모음.
+- **Frequency-aware stopwords**: 같은 디렉토리 페이지의 ≥30%에 등장하는 토큰은 common topic-vocabulary로 stopword 처리 (예: AI 클러스터의 'artificial', 'intelligence', 'ai').
+- 그 후 Jaccard similarity 0.5 이상이면 후보로 surface.
+- Source 중복은 ≥6개 공유 시만 flag (1-5개 공유는 자연스러움 — 같은 토픽 클러스터에서 흔함).
+- 결과는 후보일 뿐, 실제 합병 여부는 사람 검토.
+
+Naive alias-overlap grep은 도메인 stopword 처리가 없어 false positive 다수 — 미사용.
+
+### 2.6. Source staleness
 
 ```bash
 grep -rn '^published:' sources/ | sort
 ```
 
-### 2.6. CONFLICT 마커 (활성만)
+### 2.7. CONFLICT 마커 (활성만)
 
 ```bash
 grep -rn 'CONFLICT' wiki/  # CONFLICT RESOLVED 마커는 [ingest-protocols.md §4.1] 위반
 ```
 
-### 2.7. 중복 reference (frontmatter)
+### 2.8. 중복 reference (frontmatter)
 
 ```bash
 for f in $(find wiki -name '*.md'); do
