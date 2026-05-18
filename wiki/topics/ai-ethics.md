@@ -3,7 +3,7 @@ title: AI Ethics
 type: topic
 aliases: [responsible AI, AI 윤리, ethical AI]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md]
+sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md]
 ---
 
 # AI Ethics
@@ -45,7 +45,7 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - 평가는 보완이지 대체가 아님 — [[faith-and-ethics-ai-evaluation]]은 기존 taxonomies에 빠진 신앙·다원주의 차원을 추가하는 벤치마크 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - [[moral-agency]]가 AI 윤리의 핵심 변수 — Elder Bednar: AI 사용 편의가 사용자가 agency를 자발적으로 surrender하게 만들면 agent→object 전락 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
 - 디지털 기술 일반에 대한 더 이른 신앙 기반 비판 프레임([[things-as-they-really-are]], 2009)이 그대로 AI에 적용 가능 — "fidelity"와 "personal fidelity"는 [[ai-companions]] 분석에 직접 유효 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md].
-- 신앙 공동체의 자체 거버넌스 — [[church-ai-guiding-principles]]는 한 신앙 전통의 7-원칙/4-영역 운영 사례, *General Handbook* §38.8.48이 이를 정책으로 codify [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- 신앙 공동체의 자체 거버넌스 — [[church-ai-guiding-principles]]는 한 신앙 전통의 7-원칙/4-영역 운영 사례, *General Handbook* §38.8.48이 이를 정책으로 codify [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
 ## 권력 집중 / Common Good 논리 (Elder Gong, Istanbul + Rome)
 

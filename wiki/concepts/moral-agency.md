@@ -3,10 +3,10 @@ title: Moral Agency
 type: concept
 aliases: [agency, 도덕적 선택의지, agent-vs-object]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md]
+sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-nelson-think-celestial.md]
 ---
 
-# Moral Agency
+## Moral Agency
 
 > 하나님의 자녀가 선·정직·덕·명예에 따라 스스로 선택하고 행동할 수 있도록 신이 부여한 "power of independent action". 예수 그리스도 후기성도 교회 교의에서 행복의 계획의 중심 원리이며, 최근 사도들의 AI 담론에서 가장 자주 호출되는 윤리적 기준점이다.
 
@@ -19,9 +19,9 @@ sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, 
 ## Agents vs. Objects 이분법
 
 | 측면 | Agent (act) | Object (be acted upon) |
-|---|---|---|
+| --- | --- | --- |
 | 의지 | 능동 | 수동 |
-| 신학적 위상 | 하나님의 자녀로서의 본래 상태 | Lucifer가 [[things-as-they-really-are|premortal에서]] 모두를 환원하려 했던 상태 |
+| 신학적 위상 | 하나님의 자녀로서의 본래 상태 | Lucifer가 [[things-as-they-really-are\|premortal에서]] 모두를 환원하려 했던 상태 |
 | 결과 | 영적 성장, 영원한 진보 | 영적 정체, "miserable like unto himself" |
 
 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md]
@@ -49,6 +49,10 @@ sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, 
 - Elder Gong: covenant belonging은 "God-given moral agency"에 의해 활성화되며, Thou–They–It–I 4원 관계가 도덕적 선택의지의 작동 무대 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - "Spirit, element, and human moral agency are at the heart of our capacity to grow through intentional choice" — Elder Gong BYU 2025-08 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 
+## President Nelson — Addiction은 agency를 빼앗는다
+
+[[russell-m-nelson|President Russell M. Nelson]] "Think Celestial!" (2023-10): "you will find yourself avoiding *anything* that robs you of your agency. *Any* addiction—be it gaming, gambling, debt, drugs, alcohol, anger, pornography, sex, or even food—**offends God. Why? Because your obsession becomes your god. You look to *it* rather than to *Him* for solace**" — agency 강탈 카테고리에 디지털/AI 의존도 포함 가능한 권위 명제 [source: sources/articles/2026-05-18-nelson-think-celestial.md].
+
 ## See also
 
 - [[things-as-they-really-are]]
@@ -56,4 +60,5 @@ sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, 
 - [[ai-companions]]
 - [[david-bednar]]
 - [[gerrit-gong]]
+- [[russell-m-nelson]]
 - [[ai-ethics]]

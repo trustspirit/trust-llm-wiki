@@ -4,7 +4,7 @@ type: index
 updated: 2026-05-18
 ---
 
-# Wiki Index
+## Wiki Index
 
 > 위키의 최상위 허브. 새 페이지가 생기면 해당 섹션에 wikilink를 추가한다.
 
@@ -15,6 +15,7 @@ updated: 2026-05-18
 - [[gerrit-gong]] — 예수 그리스도 후기성도 교회 사도, [[faith-and-ethics-ai-evaluation]] 제안자
 - [[david-bednar]] — 예수 그리스도 후기성도 교회 사도, [[things-as-they-really-are]] 신학 프레임
 - [[russell-m-nelson]] — 예수 그리스도 후기성도 교회 회장, 2018 personal revelation 권위 강연
+- [[pope-leo-xiv]] — 가톨릭 교회 교황, [[antiqua-et-nova]] 후속 AI 메시지 3건 (2025)
 
 ## Concepts
 

@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]
 ---
 
-# ChatGPT
+## ChatGPT
 
 > OpenAI가 2022년 11월에 공개한 대화형 generative AI. Elder Gerrit W. Gong이 두 차례 연설에서 정의·통계·초기 한계 일화를 다뤘으며, AI 시대 공공 인식의 출발점 사건으로 자리매김된다.
 
@@ -49,4 +49,3 @@ Elder Gong의 정리: "AI has developed rapidly since those early days" — 이 
 - [[ai-companions]]
 
 <!-- STALE-WATCH: AI industry stats (weekly users, OpenAI revenue projection, training cost, private AI company counts) cited here are 2025-07~2025-10 snapshots. Recheck quarterly and re-ingest fresher sources if material drift. -->
-

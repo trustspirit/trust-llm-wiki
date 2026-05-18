@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md]
 ---
 
-# Elder Gerrit W. Gong
+## Elder Gerrit W. Gong
 
 > 예수 그리스도 후기성도 교회 십이사도 정원회(Quorum of the Twelve Apostles) 구성원. 2024–2025년에 교회 내부 [[church-ai-guiding-principles|AI 가이드라인]] 도입과 외부 3대 무대(Istanbul Religions for Peace, BYU Education Week, Rome Summit on Ethics and AI)에서의 강연을 통해 [[faith-and-ethics-ai-evaluation]] 구상을 단계적으로 공개·발전시킴.
 
@@ -39,8 +39,8 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 ## 2025년 AI 관련 주요 무대
 
 | 날짜 | 자리 | 주제 |
-|---|---|---|
-| 2025-07-29 | Religions for Peace World Council (Istanbul, Türkiye) | "[[faith-and-ethics-ai-evaluation|Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence: A Call to Action]]" — "Faith Community AI Evaluation"이라는 명칭 첫 공개, 3-part call to action 제시 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
+| --- | --- | --- |
+| 2025-07-29 | Religions for Peace World Council (Istanbul, Türkiye) | "[[faith-and-ethics-ai-evaluation\|Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence: A Call to Action]]" — "Faith Community AI Evaluation"이라는 명칭 첫 공개, 3-part call to action 제시 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
 | 2025-08-19 | BYU Education Week Devotional | "An Ear to Wisdom, a Heart to Understanding" — 경전 wisdom·understanding 5개 관찰 + AI 신학적 위치 + 그리스도 속죄 적용 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md] |
 | 2025-10-21 | Rome Summit on Ethics and AI (Vatican City) | "Faith, Respect, and Moral Compass in an Age of Artificial Intelligence" — [[faith-and-ethics-ai-evaluation]] 7개 루브릭과 4원칙(independent/transparent/iterative/pluralistic) 정식 제안 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md] |
 

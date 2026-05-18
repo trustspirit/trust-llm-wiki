@@ -3,7 +3,7 @@ title: Antiqua et Nova
 type: concept
 aliases: [Antiqua et Nova (Vatican AI document), Note on the Relationship Between Artificial Intelligence and Human Intelligence]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]
+sources: [sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-leo-xiv-ai-ethics-corporate-governance.md, sources/articles/2026-05-18-leo-xiv-builders-ai-forum.md, sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md]
 ---
 
 # Antiqua et Nova
@@ -95,8 +95,21 @@ sources: [sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articl
 
 > **Synthesis** (from: sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md): *Antiqua et Nova* §V의 "AI and Our Relationship with God"가 AI 우상화를 idolatry로 단정하는 강한 신학적 진술과, 예수 그리스도 후기성도 교회 사도들의 "God is God. AI is not and cannot be God" 명제 (Elder Gong) 및 "AI cannot simulate, imitate, or replace the influence of the Holy Ghost" (Elder Bednar)는 거의 동일한 결론에 도달한다 — 다른 신앙 전통 간에도 AI 신격화 거부는 공통의 신학적 합의점이 가능함을 시사.
 
+## [[pope-leo-xiv|Pope Leo XIV]]의 후속 해석 (2025)
+
+*Antiqua et Nova* 출판 직후 Pope Francis의 후임 [[pope-leo-xiv|Pope Leo XIV]]가 즉위했고, 2025년 세 차례 AI 메시지를 통해 이 문서의 신학 원리를 산업·연구·의료 영역에 단계적으로 적용 [source: sources/articles/2026-05-18-leo-xiv-ai-ethics-corporate-governance.md, sources/articles/2026-05-18-leo-xiv-builders-ai-forum.md, sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md]:
+
+| Pope Leo XIV 메시지 | *Antiqua et Nova* 인용 단락 | 강조 |
+|---|---|---|
+| 2025-06-17 (AI Ethics & Corporate Governance) | §6 (integral development), §28 (intergenerational apprenticeship), §29 (data ≠ intelligence) | AI는 도구이며 의도가 윤리적 무게 결정; 청년 발달 우려 |
+| 2025-11-03 (Builders AI Forum) | §37 (기술 = 신적 창조 참여), §83 (faith-reason dialogue) | "Every design choice expresses a vision of humanity"; AI 개발자에게 moral discernment 의무 |
+| 2025-11-07 (AI and Medicine) | §71 (healthcare professionals의 vocation) | 의료 AI의 "irreplaceable nature of human relationships"; "ontological dignity" (*Dignitas Infinita*, 7) 인용 |
+
+[source: sources/articles/2026-05-18-leo-xiv-ai-ethics-corporate-governance.md, sources/articles/2026-05-18-leo-xiv-builders-ai-forum.md, sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md]
+
 ## See also
 
+- [[pope-leo-xiv]]
 - [[ai-and-faith]]
 - [[gerrit-gong]]
 - [[covenant-belonging]]

@@ -1,19 +1,27 @@
 ---
-id: general-handbook-38-8-48-ai
+id: general-handbook-38-8-48-ai-v2
 type: note
-title: "General Handbook §38.8.48 — Appropriate Use of Artificial Intelligence"
+title: "General Handbook §38.8.48 — Appropriate Use of Artificial Intelligence (corrected re-extraction)"
 author: The Church of Jesus Christ of Latter-day Saints
 ingested: 2026-05-18
-tags: [lds, general-handbook, ai-policy, official-doctrine, callings]
+tags: [lds, general-handbook, ai-policy, official-doctrine, callings, re-extraction]
 ---
 
 # General Handbook §38.8.48 — Appropriate Use of Artificial Intelligence
 
-> Section 38.8.48 of the *General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints*, the official operating manual for Church leaders and members. Text provided by the user (extracted from the Handbook in the Gospel Library). This section appears to be a relatively recent addition codifying Church policy on AI use, structured in three sub-sections.
+> **Provenance**: Text provided by the user in the current session, re-confirmed as **§38.8.48** (numbered as 38.8.48 and sub-sections 38.8.48.1 / .2 / .3 in the Handbook). This re-extraction is created per SCHEMA.md anti-pattern guidance ("If extraction was wrong, write a corrected re-extraction as a new note in `sources/notes/`") because:
+>
+> 1. The first user-provided note (`2026-05-18-general-handbook-38-8-48-ai.md`) numbered the section as §38.8.48 but used a slightly older revision of the body text.
+> 2. The Newsroom report dated 2025-12-16 (`2026-05-18-newsroom-handbook-enduring-guidance-ai.md`) cited the section as **§38.8.47** — apparently a Newsroom-side typo, since the user has now provided the same body text under §38.8.48 a second time. The Newsroom typo is documented here for the record but is not authoritative.
+> 3. This re-extraction adds one line not present in the prior version: the final "For more information, see ChurchofJesusChrist.org/AI."
+>
+> Both this re-extraction and the prior version remain in `sources/notes/` per SCHEMA.md §원칙 1 (source immutability).
 
 ---
 
-## Appropriate Use of Artificial Intelligence
+## 38.8.48
+
+### Appropriate Use of Artificial Intelligence
 
 Artificial intelligence (AI) presents opportunities and risks and is continuously changing. AI can enhance learning, facilitate communication, and foster innovation. However, AI cannot substitute for the individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others.
 
@@ -47,3 +55,5 @@ The following principles should guide leaders and members in the appropriate use
 - AI cannot replace the individual work and spiritual guidance required to prepare divinely inspired talks, lessons, prayers, or blessings. However, AI can be helpful for research, editing, translation, and similar tasks.
 - Leaders should not rely upon AI to provide advice to members on medical, financial, legal, or other sensitive matters. If members need assistance beyond the spiritual guidance provided by Church leaders, competent professionals may be helpful (see 31.3.6).
 - Sensitive information, such as Church records, personal member data, or confidential communications, should not be entered into AI tools that are not provided or managed by the Church.
+
+For more information, see ChurchofJesusChrist.org/AI.

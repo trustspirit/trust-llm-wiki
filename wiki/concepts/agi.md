@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
 ---
 
-# AGI (Artificial General Intelligence)
+## AGI (Artificial General Intelligence)
 
 > 인간 수준의 범용 지능을 갖춘 AI. 그보다 한 단계 위인 ASI(artificial super intelligence)와 함께 현재 frontier AI 경쟁의 목표로 자주 언급된다.
 
@@ -15,7 +15,7 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 Elder Gong이 Istanbul에서 정리한 AI 도약 사건들 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]:
 
 | 연도 | 사건 |
-|---|---|
+| --- | --- |
 | 1997 | IBM DeepBlue, 체스 세계 챔피언 격파 |
 | 2011 | IBM Watson, Jeopardy 챔피언 격파 |
 | 2017 | DeepMind AlphaGo, 바둑 세계 챔피언 격파 |
@@ -70,4 +70,3 @@ METR가 측정한 진보 속도 (Istanbul footnote viii): "the length of tasks A
 > **Synthesis** (from: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md): Elder Gong의 "God is God. AI is not and cannot be God"와 *Antiqua et Nova*의 "substituting God for an artifact of human making is idolatry"는 같은 결론에 도달하는 두 신앙 전통 — Latter-day Saint와 Catholic이 AGI 신격화 거부에서 합의점.
 
 <!-- STALE-WATCH: AI competition stats (498 private AI companies / $2.7T aggregate value as of 2025-08, frontier model training cost $1-2B, $100M expert compensation, METR doubling-every-7-months curve) age fast. Recheck quarterly. -->
-

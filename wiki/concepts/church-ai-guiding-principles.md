@@ -3,10 +3,10 @@ title: Church AI Guiding Principles
 type: concept
 aliases: [Principles for Church Use of Artificial Intelligence, 교회 AI 사용 원칙]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-church-ai-learn-page.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md, sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md]
+sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-church-ai-learn-page.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md, sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md]
 ---
 
-# Church AI Guiding Principles
+## Church AI Guiding Principles
 
 > 예수 그리스도 후기성도 교회가 2024년 3월 13일에 도입한 인공지능 사용 가이드 원칙. 7개 원칙이 4개 영역(Spiritual Connection, Transparency, Privacy and Security, Accountability)으로 묶인다. 공식 페이지: `AI.ChurchofJesusChrist.org`. *General Handbook* §38.8.48이 이를 정책으로 codify.
 
@@ -51,27 +51,20 @@ sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, 
 - 내부용·workforce productivity 용도는 직원이 본인의 작업·프로젝트에 원칙 적용을 스스로 판단 [source: sources/articles/2026-05-18-church-ai-learn-page.md].
 - Elder Gong은 Istanbul에서 자신의 발언이 "AI Working Group in The Church of Jesus Christ of Latter-day Saints"의 통찰에 도움을 받았다고 명시 — 실무 working group 존재 확인 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 
-<!-- CONFLICT: Handbook section number inconsistency
+## 정책 차원 — *General Handbook* §38.8.48
 
-- 사용자가 본 세션에서 직접 제공한 발췌 텍스트(sources/notes/2026-05-18-general-handbook-38-8-48-ai.md)는 섹션 번호를 §38.8.48으로 표기.
-- Newsroom 보도 (2025-12-16, sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md)는 같은 컨텐츠를 §38.8.47으로 표기.
+*General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints* **§38.8.48** "Appropriate Use of Artificial Intelligence"가 가이드라인을 운영 정책으로 codify. 본 섹션 모든 명제는 같은 출처 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md, sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md]:
 
-가능성: (a) 핸드북이 2025-12 업데이트로 §38.8.47로 재번호화 (b) 사용자 입력 시 오기. Newsroom (2025-12-16)이 최신 발표이므로 §38.8.47이 현행본일 가능성이 높음. 본 페이지에서는 양쪽 다 표기하되 §38.8.47을 우선 사용. 사용자 확인 필요.
--->
-
-## 정책 차원 — *General Handbook* §38.8.47 / §38.8.48
-
-*General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints* **§38.8.47** "Appropriate Use of Artificial Intelligence" (2025-12-16 업데이트로 공표; 사용자 제공 텍스트는 §38.8.48로 표기 — 위 CONFLICT 메모 참조)가 가이드라인을 운영 정책으로 codify. 본 섹션 모든 명제는 같은 출처 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md, sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md]:
-
-- **일반 원칙**: AI는 "individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others"를 대체할 수 없음 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
-- **금지**: 회원은 AI를 거짓·오도·불법·해로운 컨텐츠 생성·배포에 사용하면 안 됨. AI 생성 결과의 정확성을 검증해야 함 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
-- **§38.8.48.1 Learning and Teaching**: "AI cannot replace the gift of divine inspiration or the individual work required to receive it." 가르침은 경전·살아 있는 선지자·성신의 가이드로 ([[divine-learning-pattern]] 참조) [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.1).
-- **§38.8.48.2 Relationships with God and Others**: AI는 하나님·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.2).
-- **§38.8.48.3 Callings and Assignments** — 4개 구체 원칙 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.3):
+- **일반 원칙**: AI는 "individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others"를 대체할 수 없음 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
+- **금지**: 회원은 AI를 거짓·오도·불법·해로운 컨텐츠 생성·배포에 사용하면 안 됨. AI 생성 결과의 정확성을 검증해야 함 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
+- **§38.8.48.1 Learning and Teaching**: "AI cannot replace the gift of divine inspiration or the individual work required to receive it." 가르침은 경전·살아 있는 선지자·성신의 가이드로 ([[divine-learning-pattern]] 참조) [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md] (§38.8.48.1).
+- **§38.8.48.2 Relationships with God and Others**: AI는 하나님·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md] (§38.8.48.2).
+- **§38.8.48.3 Callings and Assignments** — 4개 구체 원칙 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md] (§38.8.48.3):
   - 사용 시 교회 integrity·standards·teachings를 옹호하는 방식으로
   - 신적 영감이 필요한 말씀·교훈·기도·축복 준비는 AI로 대체할 수 없으나, research·editing·translation 등에는 helpful
   - 지도자는 의료·재정·법률·기타 민감 사안에 대해 AI에 자문을 의지하지 말 것 (필요시 전문가, §31.3.6 참조)
   - 교회 기록·회원 개인 데이터·기밀 통신 등 민감 정보는 교회가 제공·관리하지 않는 AI에 입력 금지
+- **공식 참조 URL**: 핸드북 본문 마지막 줄이 회원·지도자에게 추가 정보를 위해 **ChurchofJesusChrist.org/AI**를 참조하도록 안내 — [[church-ai-guiding-principles|Church AI 가이드라인]] 7-원칙/4-영역의 공식 landing page (`sources/articles/2026-05-18-church-ai-learn-page.md`와 동일) [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
 ## 활용 영역 (Elder Gong, Newsroom 2024-03-13)
 

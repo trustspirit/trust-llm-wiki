@@ -3,7 +3,7 @@ title: Divine Learning Pattern
 type: concept
 aliases: [divine pattern of learning, study and faith, pattern for divine learning, scripture-ponder-pray-act]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md]
+sources: [sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md]
 ---
 
 # Divine Learning Pattern
@@ -31,10 +31,10 @@ Elder Ronald M. Barcellos of the Seventy의 정식화 [source: sources/articles/
 ## AI 시대의 적용
 
 - Barcellos는 본인의 AI 생성 사진(받은 적 없는 BYU-Pathway 졸업장 수여 사진)을 시연하며 "AI 진화가 진리 분별을 더 어렵게 만들었다"고 진단. [[deepfakes]] 위협이 이 패턴의 시급성을 높였다 [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md].
-- *General Handbook* 38.8.48.1 "Learning and Teaching": "AI cannot replace the gift of divine inspiration or the individual work required to receive it" — 패턴의 인간 노력 부분을 AI로 대체할 수 없음을 정책화 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
-- *General Handbook* 38.8.48.1은 같은 도식을 짧게 정식화: Church members "seek learning by study, faith, and prayer" (D&C 84:85; 88:118)하며 "invite the Spirit to inspire their minds and hearts" (D&C 8:2–3; 11:12–14) — Barcellos의 4단계와 동일 구조 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- *General Handbook* 38.8.48.1 "Learning and Teaching": "AI cannot replace the gift of divine inspiration or the individual work required to receive it" — 패턴의 인간 노력 부분을 AI로 대체할 수 없음을 정책화 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
+- *General Handbook* 38.8.48.1은 같은 도식을 짧게 정식화: Church members "seek learning by study, faith, and prayer" (D&C 84:85; 88:118)하며 "invite the Spirit to inspire their minds and hearts" (D&C 8:2–3; 11:12–14) — Barcellos의 4단계와 동일 구조 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
-> **Synthesis** (from: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md): Divine learning pattern은 [[moral-agency|agency]]가 신학적 추상(act vs. be acted upon)이 아니라 구체적 *학습 워크플로우*로 정착하는 지점이다. Elder Bednar가 AI에 대해 경고한 agency surrender — "지금 답을 받으려는 유혹"으로 study/ponder/ask/act 4단계를 단축하는 것 — 가 정확히 이 패턴이 막으려는 것이다.
+> **Synthesis** (from: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md): Divine learning pattern은 [[moral-agency|agency]]가 신학적 추상(act vs. be acted upon)이 아니라 구체적 *학습 워크플로우*로 정착하는 지점이다. Elder Bednar가 AI에 대해 경고한 agency surrender — "지금 답을 받으려는 유혹"으로 study/ponder/ask/act 4단계를 단축하는 것 — 가 정확히 이 패턴이 막으려는 것이다.
 
 ## 인용된 사례
 
@@ -55,6 +55,12 @@ Elder Ronald M. Barcellos of the Seventy의 정식화 [source: sources/articles/
 President Nelson의 결정적 명제 (AI 시대 적용 권위 근거): "If we are to have any hope of sifting through the myriad of voices and the philosophies of men that attack truth, we must learn to receive revelation" [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
 
 또한 천국이 열리는 5요소 조합: "increased purity, exact obedience, earnest seeking, daily feasting on the words of Christ in the Book of Mormon, and regular time committed to temple and family history work" [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md].
+
+## President Nelson "Think Celestial!" (2023-10) 보강
+
+- "Please do the spiritual work to increase your capacity to receive personal revelation" — 패턴 4단계를 "spiritual work"로 재정식화 [source: sources/articles/2026-05-18-nelson-think-celestial.md].
+- 진리 분별 권위: "There is no end to the adversary's deceptions. Please be prepared. Never take counsel from those who do not believe. **Seek guidance from voices you can trust—from prophets, seers, and revelators and from the whisperings of the Holy Ghost**, who 'will show unto you *all* things what ye should do'" — [[deepfakes|딥페이크 면역 자원]] "Trusted Sources"의 원전 [source: sources/articles/2026-05-18-nelson-think-celestial.md].
+- 성전 예배가 패턴을 강화: "The temple is a place of revelation. There you are shown how to progress toward a celestial life. … There you are guided in solving the problems in your life, even your most perplexing problems" [source: sources/articles/2026-05-18-nelson-think-celestial.md].
 
 ## See also
 

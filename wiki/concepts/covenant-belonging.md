@@ -6,7 +6,7 @@ updated: 2026-05-18
 sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
 ---
 
-# Covenant Belonging
+## Covenant Belonging
 
 > [[gerrit-gong|Elder Gerrit W. Gong]]이 [[ai-ethics]] 논의의 신학적 기반으로 제시하는 개념. 인간이 신·타인·자연·자기 자신과 맺는 네 갈래 관계(Thou–They–It–I)를 일시적 계약이 아니라 신이 주신 covenant로 정의한다.
 
@@ -20,7 +20,7 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 신앙 기반 정체성의 핵심 관계 네 갈래 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md]:
 
 | 차원 | 대상 | 관계 |
-|---|---|---|
+| --- | --- | --- |
 | **Thou** | God | communion (교제) |
 | **They** | 타인 | community and compassion (공동체·자비) |
 | **It** | 자연·환경 | harmony (조화) |

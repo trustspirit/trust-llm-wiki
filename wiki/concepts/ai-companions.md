@@ -3,7 +3,7 @@ title: AI Companions
 type: concept
 aliases: [virtual companions, AI 동반자, AI girlfriend, AI boyfriend, AI chatbot companion]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md]
+sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md, sources/articles/2026-05-18-nelson-think-celestial.md]
 ---
 
 # AI Companions
@@ -73,9 +73,27 @@ AI companions 등장 이전, Elder Bednar는 이미 cyberspace 관계의 동형 
 
 > **Synthesis** (from: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md): Elder Bednar의 "AI companion is only a mathematical algorithm. It does not like you. It does not care about you"와 *Antiqua et Nova*의 "no AI application can genuinely experience empathy"는 사실상 동일한 명제 — 다원주의 신앙 합의의 한 사례.
 
+## Pope Leo XIV의 의료/관계 평행 명제 (2025-11-07)
+
+[[pope-leo-xiv|Pope Leo XIV]]는 "AI and Medicine" 메시지에서 인간/기계 경계 흐려짐의 위험을 직접 묘사 [source: sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md]:
+
+- "We currently interact with machines as if they were interlocutors, and thus become almost an extension of them. In this sense, we not only run the risk of losing sight of the faces of the people around us, but of **forgetting how to recognize and cherish all that is truly human**."
+- 의료 직군에 대해서도 같은 진단: "technological devices must never detract from the personal relationship between patients and healthcare providers" — AI는 "interpersonal relationships and the care provided"를 *enhance*해야 하지 *replace*해서는 안 됨.
+- "Medical professionalism … requires not only the necessary specific expertise, but also the ability to communicate and be close to others. It can never be reduced merely to solving a problem."
+
+## President Nelson의 addiction-as-idol 명제 (2023-10)
+
+[[russell-m-nelson|President Russell M. Nelson]]의 "Think Celestial!" 강연이 [[ai-companions|AI 동반자]] 의존을 신학적으로 평가할 수 있는 권위 명제를 제공 [source: sources/articles/2026-05-18-nelson-think-celestial.md]:
+
+> "*Any* addiction—be it gaming, gambling, debt, drugs, alcohol, anger, pornography, sex, or even food—offends God. **Why? Because your obsession becomes your god. You look to *it* rather than to *Him* for solace.**"
+
+> **Synthesis** (from: sources/articles/2026-05-18-nelson-think-celestial.md, sources/articles/2026-05-18-antiqua-et-nova-vatican.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md): Nelson의 "obsession becomes your god"는 *Antiqua et Nova* §V 104-107의 AI 우상화 = idolatry 명제와 동일 구조에 도달한다. Nelson은 일반적 addiction 카테고리를 정식화했고, *Antiqua et Nova*는 그것을 AI에 specific하게 적용한 셈. AI companions 의존은 두 source의 교집합 — Latter-day Saint와 Catholic 모두에서 신학적 우상숭배 카테고리로 평가 가능.
+
 ## See also
 
 - [[antiqua-et-nova]]
+- [[pope-leo-xiv]]
+- [[russell-m-nelson]]
 - [[things-as-they-really-are]]
 - [[moral-agency]]
 - [[david-bednar]]

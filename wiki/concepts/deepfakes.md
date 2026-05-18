@@ -46,7 +46,7 @@ Elder Ronald M. Barcellos of the Seventy는 BYU-Pathway Worldwide Devotional에�
 
 - **Newsroom (2024-03-13)**: 교회는 deceitful 컨텐츠에 대해 "as needed … through official Church channels"로 대응 — 공식 채널 모니터링·반박 [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md].
 - **[[church-ai-guiding-principles|Transparency 원칙]]**: 사람들이 교회와 상호작용할 때 AI와 interface 중인지 알게 하고, AI 생성 컨텐츠는 진위·저자에 오해 소지가 있을 때 attribution을 명시 [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md].
-- ***General Handbook* 38.8.48**: "Church members should not use AI to create or disseminate anything that is false, misleading, illegal, or harmful. They should verify AI-generated output for accuracy" — 정책 차원의 금지 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- ***General Handbook* 38.8.48**: "Church members should not use AI to create or disseminate anything that is false, misleading, illegal, or harmful. They should verify AI-generated output for accuracy" — 정책 차원의 금지 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
 ## 회원 개인의 응답: [[divine-learning-pattern]]
 

@@ -3,10 +3,10 @@ title: AI and Faith
 type: topic
 aliases: [AI와 신앙, religion and AI, faith and AI, AI and religion]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-church-ai-learn-page.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md, sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md]
+sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-church-ai-learn-page.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md, sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md]
 ---
 
-# AI and Faith
+## AI and Faith
 
 > AI 발전이 종교·신앙 전통에 미치는 영향과, 신앙 공동체가 거버넌스·평가·교의·정책 응답을 통해 그에 응답하는 방식을 다루는 토픽. 예수 그리스도 후기성도 교회 사도들의 가르침, *General Handbook* §38.8.48 정책, [[church-ai-guiding-principles]] 가이드라인, 다종교 협의체 활동이 1차 source.
 
@@ -15,15 +15,15 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - **AI는 하나님이 아니며 하나님이 될 수 없다**: "God is God. AI is not and cannot be God" — Elder Gong (Rome 2025-10, Istanbul 2025-07에서도 반복). 인간은 하나님의 피조물로서 AI를 만들 수 있으나, AI는 하나님을 창조할 수 없다 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 - **AI는 계시·진리를 생성할 수 없다**: Elder Gong (BYU 2025-08): "Artificial intelligence cannot replace revelation or generate truth from God" [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md].
 - **AI는 성신을 대체할 수 없다**: Elder Bednar (2024-11): "Artificial intelligence cannot simulate, imitate, or replace the influence of the Holy Ghost in our lives. No matter how sophisticated and elegant AI technology ultimately may become, it simply can never bear witness of the Father and the Son, reveal the truth of all things, or sanctify those who have repented and been baptized" [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
-- **AI는 영적 성장에 필요한 개인 노력이나 신적 영감을 대체할 수 없다** (정책 명제): *General Handbook* §38.8.48 — "AI cannot substitute for the individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others" [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **AI는 영적 성장에 필요한 개인 노력이나 신적 영감을 대체할 수 없다** (정책 명제): *General Handbook* §38.8.48 — "AI cannot substitute for the individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others" [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
 ## 주요 행위자 / 응답 채널
 
 | 행위자 | 응답 채널 / 산출물 |
-|---|---|
+| --- | --- |
 | 바티칸 (Vatican) | [[antiqua-et-nova]] (AI 신학·윤리 공식 문서, 2025-01-28 reviewed) |
 | 예수 그리스도 후기성도 교회 | [[church-ai-guiding-principles]] (2024-03-13 도입, 7-원칙/4-영역) + *General Handbook* §38.8.48 정책 + [[gerrit-gong]]·[[david-bednar]] 사도적 가르침 + AI Working Group |
-| Religions for Peace | 2025-07-29 Istanbul World Council ("Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence", Elder Gong "[[faith-and-ethics-ai-evaluation|3-part call to action]]") |
+| Religions for Peace | 2025-07-29 Istanbul World Council ("Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence", Elder Gong "[[faith-and-ethics-ai-evaluation\|3-part call to action]]") |
 | American Security Foundation + Vatican | 2025-10-21 Rome Summit on Ethics and AI |
 | 다원주의 신앙 컨소시엄 (구상 중) | [[faith-and-ethics-ai-evaluation]] (Baylor, Brigham Young, Notre Dame, Yeshiva University 등 협력) |
 | AI and Faith (aiandfaith.org) | 인접 시도 단체, Istanbul footnote xii [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
@@ -33,25 +33,25 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - **AI가 영적 진리의 위조품(counterfeit)이 되는 것** — Elder Gong [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - **AI 의인화(anthropomorphizing)** [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - **AI에 대한 정서적 과의존 ([[ai-companions]])** [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
-- **신적 영감을 AI에 위임하려는 시도** (회원이 성찬식 말씀·세미나리 숙제를 AI에게 맡기는 것) [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **신적 영감을 AI에 위임하려는 시도** (회원이 성찬식 말씀·세미나리 숙제를 AI에게 맡기는 것) [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 - **"godlike AI" 담론의 신학적 무비판성** [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 - **AI 거버넌스의 도덕적 공백** ("profit-driven technology companies should not be determining society's AI moral compass") [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - **[[deepfakes]]** — 종교 지도자에 대한 위조 [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md].
-- **민감 정보 누출** — Church 기록·회원 데이터·기밀 통신을 외부 AI에 입력하는 위험. *General Handbook* 정책 차원 금지 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **민감 정보 누출** — Church 기록·회원 데이터·기밀 통신을 외부 AI에 입력하는 위험. *General Handbook* 정책 차원 금지 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 
 ## 신학적 자원 (사도들의 활용)
 
 - **[[covenant-belonging]]** (Thou–They–It–I 4원 관계) — Elder Gong이 AI 시대 인간성·관계의 신학적 기준점 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 - **[[moral-agency]]** — Elder Bednar가 AI 사용 평가의 핵심 변수 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
 - **[[things-as-they-really-are]]** — Elder Bednar의 2009 디지털 비판 프레임을 2024 AI에 적용 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md].
-- **[[divine-learning-pattern]]** — Elder Barcellos가 정식화한 4단계 학습 패턴 (search → ponder → ask → confirmed by Holy Ghost → act). *General Handbook* §38.8.48.1이 동일 도식을 정책으로 codify [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **[[divine-learning-pattern]]** — Elder Barcellos가 정식화한 4단계 학습 패턴 (search → ponder → ask → confirmed by Holy Ghost → act). *General Handbook* §38.8.48.1이 동일 도식을 정책으로 codify [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 - 교의 인용 (Doctrine and Covenants): D&C 88:15, 93:30, 93:33, 93:35, 93:36 — 두 사도 모두 인용하며 "divine intelligence is not and cannot be artificial"라는 결론으로 연결 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 
 ## 권장 / 긍정적 활용
 
 - AI는 본질적으로 나쁘지 않음 — 학습·소통·교회 강화에 적절히 활용 가능 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 - **활용 영역** (Newsroom 2024-03-13 + BYU 2025-08): 가족 역사 작업, 프로세스 가속/자동화, 언어 번역/통역(195개 국가/지역, 31,000+ 회중, 125개 언어), grounded sources에 대한 자연어 query [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
-- ***General Handbook* §38.8.48.3** 명시적 허용: research, editing, translation, similar tasks. 단, 신적 영감이 필요한 말씀·교훈·기도·축복 *준비* 자체는 대체 불가 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- ***General Handbook* §38.8.48.3** 명시적 허용: research, editing, translation, similar tasks. 단, 신적 영감이 필요한 말씀·교훈·기도·축복 *준비* 자체는 대체 불가 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md].
 - Elder Bednar 본인의 워크플로우 모델: 초안 작성은 본인이, 톤 분석·비평에는 AI 사용 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
 - Elder Gong: "We can understand and use AI and other technological innovations in the context of faith. … AI can be a valuable tool to enhance but not replace our own efforts" [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 - *For the Strength of Youth* 청년 회원 적용 (2026-02): "7 Advantages You Have as a Latter-day Saint in the Age of Artificial Intelligence" — true identity, agency, truth, Holy Ghost gift, learning/working/growing, connection 등 7가지 신앙적 자원을 AI 시대 자기 보호 도구로 정리 [source: sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md].
@@ -59,11 +59,11 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 ## 핵심 사건 타임라인
 
 | 날짜 | 사건 |
-|---|---|
+| --- | --- |
 | 2022-11 | OpenAI [[chatgpt]] 공개 — AI가 대중 영역에 등장 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
 | 2024-01-23 | Elder Bednar BYU Devotional "Consider the Wondrous Works of God" 결말부 AI 경고 [source: sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md] |
 | 2024-03-13 | 예수 그리스도 후기성도 교회 [[church-ai-guiding-principles]] 공식 발표 (Elder Gong + Elder Pingree) [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md] |
-| 2024-11-03 | Elder Bednar Worldwide Devotional for Young Adults "[[things-as-they-really-are|Things as They Really Are 2.0]]" [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md] |
+| 2024-11-03 | Elder Bednar Worldwide Devotional for Young Adults "[[things-as-they-really-are\|Things as They Really Are 2.0]]" [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md] |
 | 2025-01-28 (reviewed) | Vatican *[[antiqua-et-nova]]* 발표 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
 | 2025-07-29 | Elder Gong, Religions for Peace World Council, Istanbul — "Faith, Ethics, and Human Dignity in an Age of Artificial Intelligence: A Call to Action" [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md] |
 | 2025-08-19 | Elder Gong BYU Education Week Devotional "An Ear to Wisdom, a Heart to Understanding" [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md] |
@@ -71,8 +71,14 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 | 2026-02 | *For the Strength of Youth* "7 Advantages You Have as a Latter-day Saint in the Age of Artificial Intelligence" [source: sources/articles/2026-05-18-ftsoy-7-advantages-latter-day-saint-ai.md] |
 | 2026-02-06 | Elder Barcellos BYU-Pathway Worldwide Devotional "Study and Faith: The Pattern for Divine Learning" — [[deepfakes]] 시연 + [[divine-learning-pattern]] 정식화 [source: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md] |
 | 2018-04-01 | (선행) President Russell M. Nelson 첫 총회 강연 "Revelation for the Church, Revelation for Our Lives" — Elder Gong 사도 임명 발표, AI 시대 personal revelation의 권위 근거 [source: sources/articles/2026-05-18-nelson-revelation-for-the-church.md] |
-| 2025-01-28 | (선행) Vatican *[[antiqua-et-nova|Antiqua et Nova]]* 출판 — Pope Francis 2025-01-14 audience 승인. AI 신격화를 idolatry로 단정, AGI/AI Companions/Deepfakes에 대한 신학적 진단 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md] |
+| 2025-01-28 | (선행) Vatican *[[antiqua-et-nova\|Antiqua et Nova]]* 출판 — Pope Francis 2025-01-14 audience 승인. AI 신격화를 idolatry로 단정, AGI/AI Companions/Deepfakes에 대한 신학적 진단 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md] |
 | 2025-12-16 | (선행) Newsroom 보도 — *General Handbook* §38.8.47 "Appropriate Use of Artificial Intelligence" 업데이트 발표 [source: sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md] |
+| 2023-10-01 | (선행) President Russell M. Nelson "Think Celestial!" — addiction이 agency 강탈/우상화로 작동하는 신학적 진단 (AI 의존 적용 권위) [source: sources/articles/2026-05-18-nelson-think-celestial.md] |
+| 2025-06-17 | Pope Leo XIV 메시지 (Second Annual Rome Conference on AI, Ethics, and Corporate Governance) — *Antiqua et Nova* §6/§28/§29 적용 [source: sources/articles/2026-05-18-leo-xiv-ai-ethics-corporate-governance.md] |
+| 2025-11-03 | Pope Leo XIV 메시지 (Builders AI Forum, Pontifical Gregorian University) — "every design choice expresses a vision of humanity" [source: sources/articles/2026-05-18-leo-xiv-builders-ai-forum.md] |
+| 2025-11-07 | Pope Leo XIV 메시지 (International Congress of the Pontifical Academy for Life — "AI and Medicine: The Challenge of Human Dignity") — *Dignitas Infinita* §7 + *Antiqua et Nova* §71 적용 [source: sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md] |
+| 2026-02-10 | [[dallin-h-oaks\|President Dallin H. Oaks]] BYU devotional "Coming Closer to Jesus Christ" — Two Methods of Gaining Knowledge (scientific + spiritual) 명제 (Cook 강연으로 간접 인용; 원문 미 ingest) [source: sources/articles/2026-05-18-cook-faith-jesus-christ-information-age.md] |
+| 2026-03-03 | [[quentin-l-cook\|Elder Quentin L. Cook]] BYU devotional "Faith in Jesus Christ in the Information Age" — 4 시대 전환 (농경→산업→정보→AI), "choose truth when deception is easy" [source: sources/articles/2026-05-18-cook-faith-jesus-christ-information-age.md] |
 
 ## See also
 
@@ -91,3 +97,6 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - [[gerrit-gong]]
 - [[david-bednar]]
 - [[russell-m-nelson]]
+- [[pope-leo-xiv]]
+- [[quentin-l-cook]]
+- [[dallin-h-oaks]]
