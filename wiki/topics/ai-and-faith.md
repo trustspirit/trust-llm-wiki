@@ -74,9 +74,6 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 | 2025-01-28 | (선행) Vatican *[[antiqua-et-nova\|Antiqua et Nova]]* 출판 — Pope Francis 2025-01-14 audience 승인. AI 신격화를 idolatry로 단정, AGI/AI Companions/Deepfakes에 대한 신학적 진단 [source: sources/articles/2026-05-18-antiqua-et-nova-vatican.md] |
 | 2025-12-16 | (선행) Newsroom 보도 — *General Handbook* §38.8.47 "Appropriate Use of Artificial Intelligence" 업데이트 발표 [source: sources/articles/2026-05-18-newsroom-handbook-enduring-guidance-ai.md] |
 | 2023-10-01 | (선행) President Russell M. Nelson "Think Celestial!" — addiction이 agency 강탈/우상화로 작동하는 신학적 진단 (AI 의존 적용 권위) [source: sources/articles/2026-05-18-nelson-think-celestial.md] |
-| 2025-06-17 | Pope Leo XIV 메시지 (Second Annual Rome Conference on AI, Ethics, and Corporate Governance) — *Antiqua et Nova* §6/§28/§29 적용 [source: sources/articles/2026-05-18-leo-xiv-ai-ethics-corporate-governance.md] |
-| 2025-11-03 | Pope Leo XIV 메시지 (Builders AI Forum, Pontifical Gregorian University) — "every design choice expresses a vision of humanity" [source: sources/articles/2026-05-18-leo-xiv-builders-ai-forum.md] |
-| 2025-11-07 | Pope Leo XIV 메시지 (International Congress of the Pontifical Academy for Life — "AI and Medicine: The Challenge of Human Dignity") — *Dignitas Infinita* §7 + *Antiqua et Nova* §71 적용 [source: sources/articles/2026-05-18-leo-xiv-ai-medicine-human-dignity.md] |
 | 2026-02-10 | [[dallin-h-oaks\|President Dallin H. Oaks]] BYU devotional "Coming Closer to Jesus Christ" — Two Methods of Gaining Knowledge (scientific + spiritual) 명제 (Cook 강연으로 간접 인용; 원문 미 ingest) [source: sources/articles/2026-05-18-cook-faith-jesus-christ-information-age.md] |
 | 2026-03-03 | [[quentin-l-cook\|Elder Quentin L. Cook]] BYU devotional "Faith in Jesus Christ in the Information Age" — 4 시대 전환 (농경→산업→정보→AI), "choose truth when deception is easy" [source: sources/articles/2026-05-18-cook-faith-jesus-christ-information-age.md] |
 
@@ -97,6 +94,5 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 - [[gerrit-gong]]
 - [[david-bednar]]
 - [[russell-m-nelson]]
-- [[pope-leo-xiv]]
 - [[quentin-l-cook]]
 - [[dallin-h-oaks]]

@@ -12,10 +12,11 @@ updated: 2026-05-18
 
 - [[karpathy]] — [[llm-wiki]] 패턴 제안자
 - [[vannevar-bush]] — 1945년 [[memex]] 비전 제안자
-- [[gerrit-gong]] — 예수 그리스도 후기성도 교회 사도, [[faith-and-ethics-ai-evaluation]] 제안자
-- [[david-bednar]] — 예수 그리스도 후기성도 교회 사도, [[things-as-they-really-are]] 신학 프레임
-- [[russell-m-nelson]] — 예수 그리스도 후기성도 교회 회장, 2018 personal revelation 권위 강연
-- [[pope-leo-xiv]] — 가톨릭 교회 교황, [[antiqua-et-nova]] 후속 AI 메시지 3건 (2025)
+- [[gerrit-gong]] — 십이사도 정원회, [[faith-and-ethics-ai-evaluation]] 제안자
+- [[david-bednar]] — 십이사도 정원회, [[things-as-they-really-are]] 신학 프레임
+- [[quentin-l-cook]] — 십이사도 정원회, 2026-03 BYU "Information Age" 강연
+- [[russell-m-nelson]] — 17대 회장 (1924–2025, 재임 2018–2025), 2018 personal revelation 권위 강연
+- [[dallin-h-oaks]] — 18대 회장 (현 prophet, 2025-10 승계), "Two Methods of Gaining Knowledge" 권위 명제
 
 ## Concepts
 

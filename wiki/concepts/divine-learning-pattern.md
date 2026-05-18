@@ -3,7 +3,7 @@ title: Divine Learning Pattern
 type: concept
 aliases: [divine pattern of learning, study and faith, pattern for divine learning, scripture-ponder-pray-act]
 updated: 2026-05-18
-sources: [sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md]
+sources: [sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/notes/2026-05-18-general-handbook-38-8-48-ai-v2.md, sources/articles/2026-05-18-nelson-revelation-for-the-church.md, sources/articles/2026-05-18-nelson-think-celestial.md, sources/articles/2026-05-18-oaks-coming-closer-to-jesus-christ.md]
 ---
 
 # Divine Learning Pattern
@@ -62,8 +62,21 @@ President Nelson의 결정적 명제 (AI 시대 적용 권위 근거): "If we ar
 - 진리 분별 권위: "There is no end to the adversary's deceptions. Please be prepared. Never take counsel from those who do not believe. **Seek guidance from voices you can trust—from prophets, seers, and revelators and from the whisperings of the Holy Ghost**, who 'will show unto you *all* things what ye should do'" — [[deepfakes|딥페이크 면역 자원]] "Trusted Sources"의 원전 [source: sources/articles/2026-05-18-nelson-think-celestial.md].
 - 성전 예배가 패턴을 강화: "The temple is a place of revelation. There you are shown how to progress toward a celestial life. … There you are guided in solving the problems in your life, even your most perplexing problems" [source: sources/articles/2026-05-18-nelson-think-celestial.md].
 
+## President Oaks의 "Two Methods of Gaining Knowledge" (1차 권위 source)
+
+[[dallin-h-oaks|President Dallin H. Oaks]] "Coming Closer to Jesus Christ" (BYU devotional, 2026-02-10) — 회장 승계 후 첫 BYU 강연 [source: sources/articles/2026-05-18-oaks-coming-closer-to-jesus-christ.md]:
+
+> "We are grateful to know that there are two methods of gaining needed knowledge: (1) the evolving disclosures of man discovered by the **scientific method** and (2) the truths disclosed by the **spiritual method**, which begins with faith in God and relies on scriptures, inspired teaching, and personal revelation. There is no ultimate conflict between knowledge gained by these different methods because God, our omnipotent Eternal Father, knows all truth and beckons us to learn by both methods."
+
+→ AI 시대 진리 분별의 권위 명제. 과학적 방법과 영적 방법은 충돌하지 않으며 둘 다 필요. [[deepfakes|딥페이크]]와 hallucination을 다룰 때 영적 방법이 보완재가 됨.
+
+Elder Richard L. Evans 인용 (Oaks가 가져옴, *CR* April 1961): "**God has not told us all he knows**. We believe in continuous revelation. Be patient. Keep humble and balanced in all things" [source: sources/articles/2026-05-18-oaks-coming-closer-to-jesus-christ.md].
+
+> **Synthesis** (from: sources/articles/2026-05-18-barcellos-study-and-faith-divine-learning.md, sources/articles/2026-05-18-nelson-revelation-for-the-church.md, sources/articles/2026-05-18-oaks-coming-closer-to-jesus-christ.md): 세 사도(Barcellos 4단계, Nelson 6단계, Oaks two methods)의 정식화는 다른 어휘로 같은 패턴을 표현 — 영적 진리는 (a) 합당한 source에서 study, (b) 마음으로 ponder, (c) 진정한 기도로 ask, (d) 성신의 확증을 얻은 후 행동으로 응답하는 절차. AI 시대에는 이 절차가 데이터·hallucination이 만드는 "made-to-order truth"의 대안이다.
+
 ## See also
 
+- [[dallin-h-oaks]]
 - [[russell-m-nelson]]
 - [[deepfakes]]
 - [[moral-agency]]
