@@ -21,7 +21,7 @@ sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, 
 
 ## 7개 원칙 / 4개 영역
 
-[source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]
+> 본 섹션의 모든 원칙 문구는 2024-03-13 발표 원문 그대로 인용. 7-원칙/4-영역 카운트 정식화는 Istanbul footnote xi에서 확인 [source: sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 
 ### Spiritual Connection
 
@@ -53,13 +53,13 @@ sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, 
 
 ## 정책 차원 — *General Handbook* §38.8.48
 
-*General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints* §38.8.48 "Appropriate Use of Artificial Intelligence"가 가이드라인을 운영 정책으로 codify [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md]:
+*General Handbook: Serving in The Church of Jesus Christ of Latter-day Saints* §38.8.48 "Appropriate Use of Artificial Intelligence"가 가이드라인을 운영 정책으로 codify. 본 섹션 모든 명제는 같은 출처 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md]:
 
-- **일반 원칙**: AI는 "individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others"를 대체할 수 없음.
-- **금지**: 회원은 AI를 거짓·오도·불법·해로운 컨텐츠 생성·배포에 사용하면 안 됨. AI 생성 결과의 정확성을 검증해야 함.
-- **§38.8.48.1 Learning and Teaching**: "AI cannot replace the gift of divine inspiration or the individual work required to receive it." 가르침은 경전·살아 있는 선지자·성신의 가이드로 ([[divine-learning-pattern]] 참조).
-- **§38.8.48.2 Relationships with God and Others**: AI는 신·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답.
-- **§38.8.48.3 Callings and Assignments** — 4개 구체 원칙:
+- **일반 원칙**: AI는 "individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others"를 대체할 수 없음 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **금지**: 회원은 AI를 거짓·오도·불법·해로운 컨텐츠 생성·배포에 사용하면 안 됨. AI 생성 결과의 정확성을 검증해야 함 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
+- **§38.8.48.1 Learning and Teaching**: "AI cannot replace the gift of divine inspiration or the individual work required to receive it." 가르침은 경전·살아 있는 선지자·성신의 가이드로 ([[divine-learning-pattern]] 참조) [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.1).
+- **§38.8.48.2 Relationships with God and Others**: AI는 신·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.2).
+- **§38.8.48.3 Callings and Assignments** — 4개 구체 원칙 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.3):
   - 사용 시 교회 integrity·standards·teachings를 옹호하는 방식으로
   - 신적 영감이 필요한 말씀·교훈·기도·축복 준비는 AI로 대체할 수 없으나, research·editing·translation 등에는 helpful
   - 지도자는 의료·재정·법률·기타 민감 사안에 대해 AI에 자문을 의지하지 말 것 (필요시 전문가, §31.3.6 참조)

@@ -47,3 +47,6 @@ Elder Gong의 정리: "AI has developed rapidly since those early days" — 이 
 - [[ai-ethics]]
 - [[gerrit-gong]]
 - [[ai-companions]]
+
+<!-- STALE-WATCH: AI industry stats (weekly users, OpenAI revenue projection, training cost, private AI company counts) cited here are 2025-07~2025-10 snapshots. Recheck quarterly and re-ingest fresher sources if material drift. -->
+

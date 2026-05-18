@@ -149,7 +149,19 @@ Elder Gong이 Elder Bednar의 명제를 다시 인용하는 식의 사례:
 - 두 source 모두 인용 권장: `[source: <bednar-source>, <gong-source>]` (시간순).
 - 단, Bednar 원문이 wiki에 이미 ingest됐다면 wiki 페이지에서 다시 인용할 때 Gong의 second-hand만 인용해도 무방. 핵심은 *원전*이 트래킹 가능해야 한다는 것 — Gong source의 본문에는 원전 정보가 들어 있으므로 chain은 유지된다.
 
-### 6.7. Source 본문의 published 날짜 추출
+### 6.8. SCHEMA.md 로드 의무
+
+`CLAUDE.md`는 Claude Code가 세션 시작 시 자동 로드하지만 **`SCHEMA.md`는 자동 로드되지 않는다**. 다음 규칙을 따른다:
+
+- **각 wiki skill (`wiki-ingest`, `wiki-lint`, `wiki-query`) 작업 시작 시 `SCHEMA.md`를 Read 의무**. skill SKILL.md의 "Read SCHEMA.md first" 지시를 그대로 따른다.
+- **세션 내 캐시 인정**: 같은 세션에서 이미 Read했고 그 후 SCHEMA가 수정되지 않았다면 재 Read 생략 가능.
+- **재 Read 강제 트리거**:
+  - SCHEMA.md를 본 세션에서 직접 수정한 직후 (다음 wiki 작업 전).
+  - 컨텍스트 압축(context compaction)이 일어났다고 의심될 때.
+  - 세션 시작 후 처음 wiki 작업에 들어갈 때.
+- CLAUDE.md만으로는 인용 규약·디렉토리 매핑 등 SCHEMA의 핵심 정보가 부족하므로 SCHEMA를 임베드로 복사하지 않는다 — sync drift 방지.
+
+### 6.9. Source 본문의 published 날짜 추출
 
 URL이 발표/게재 날짜를 query string·meta·본문 머리말 등 다양한 곳에 둠. fetch 후 본문에서 명확한 published 날짜를 찾을 수 없으면:
 

@@ -47,11 +47,11 @@ Elder Bednar의 핵심 명제 [source: sources/articles/2026-05-18-bednar-things
 
 ## 선행 사례 (Pre-AI cyberspace, Elder Bednar 2009)
 
-AI companions 등장 이전, Elder Bednar는 이미 cyberspace 관계의 동형 위험을 경고했다 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md]:
+AI companions 등장 이전, Elder Bednar는 이미 cyberspace 관계의 동형 위험을 경고했다. 본 섹션의 사례·통계는 모두 같은 출처 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md]:
 
-- "PFSlider" 사례 (*New Yorker*, 1997): "All the tangible stuff fell away. My body did not exist. … There was only the computer screen and the phone, my chair, and maybe a glass of water."
-- "Ric Hoogestraat" Second Life 사례 (*Wall Street Journal*, 2007): 실제 배우자가 있는 53세 남성이 cyberspace에서 다른 여성과 "virtual wife"가 됨.
-- 30,000명 게이머 조사 인용: 거의 40%의 남성 / 53%의 여성이 가상 친구가 실제 친구와 동등하거나 더 낫다고 응답.
+- "PFSlider" 사례 (*New Yorker*, 1997): "All the tangible stuff fell away. My body did not exist. … There was only the computer screen and the phone, my chair, and maybe a glass of water." [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md]
+- "Ric Hoogestraat" Second Life 사례 (*Wall Street Journal*, 2007): 실제 배우자가 있는 53세 남성이 cyberspace에서 다른 여성과 "virtual wife"가 됨 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md].
+- 30,000명 게이머 조사 인용: 거의 40%의 남성 / 53%의 여성이 가상 친구가 실제 친구와 동등하거나 더 낫다고 응답 [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md].
 
 > **Synthesis** (from: sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md): 2009 → 2024 사이 핵심 변화는 매체 주도성의 이전이다. 2009에는 사용자가 가상 인격을 능동적으로 *만들었다*(낮은 personal fidelity는 사용자의 선택). 2024 AI companions는 사용자에게 맞춰 *진화하도록* 설계된다 — personal fidelity 결여가 시스템 측에서 동적으로 생성되는 구조이며, 따라서 알아차리기가 더 어렵다.
 

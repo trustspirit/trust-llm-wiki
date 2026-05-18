@@ -12,14 +12,16 @@ sources: [sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-acti
 
 ## Istanbul 첫 공개 (2025-07-29) — 2 focused purposes
 
+> 본 섹션의 정의·메커니즘·인용은 모두 Istanbul 연설 원문 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
+
 Elder Gong의 첫 정식 제안 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md]:
 
-1. **AI 시스템이 신앙인과 종교적 믿음을 respectful하고 accurate하게 묘사하도록 보장** — "as most in society desire."
-2. **AI 모델이 신앙 기반 도덕·윤리 목적을 포함하도록 training과 use cases 제공** — "reflective of our best pluralistic, societal values."
+1. **AI 시스템이 신앙인과 종교적 믿음을 respectful하고 accurate하게 묘사하도록 보장** — "as most in society desire" [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
+2. **AI 모델이 신앙 기반 도덕·윤리 목적을 포함하도록 training과 use cases 제공** — "reflective of our best pluralistic, societal values" [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 
-추가 기능: "valuable additional AI check-and-balance" 역할.
+추가 기능: "valuable additional AI check-and-balance" 역할 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 
-운영 메커니즘 (Istanbul): 각 신앙 공동체가 자기 공동체의 history, doctrines, beliefs, moral principles를 정확히 묘사한다고 느끼는 *training sets*를 직접 개발. 관련 당사자와 협력해 protocols 수립 → tests 실행 → benchmarks 발표 → 반복 개선.
+운영 메커니즘 (Istanbul): 각 신앙 공동체가 자기 공동체의 history, doctrines, beliefs, moral principles를 정확히 묘사한다고 느끼는 *training sets*를 직접 개발. 관련 당사자와 협력해 protocols 수립 → tests 실행 → benchmarks 발표 → 반복 개선 [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 
 ## 정당화 근거 (3가지, Istanbul)
 

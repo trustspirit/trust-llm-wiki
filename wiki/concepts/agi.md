@@ -56,3 +56,6 @@ METR가 측정한 진보 속도 (Istanbul footnote viii): "the length of tasks A
 - [[faith-and-ethics-ai-evaluation]]
 - [[ai-ethics]]
 - [[rag]]
+
+<!-- STALE-WATCH: AI competition stats (498 private AI companies / $2.7T aggregate value as of 2025-08, frontier model training cost $1-2B, $100M expert compensation, METR doubling-every-7-months curve) age fast. Recheck quarterly. -->
+

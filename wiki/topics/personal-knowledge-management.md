@@ -12,13 +12,13 @@ sources: [sources/articles/2026-05-18-karpathy-llm-wiki.md]
 
 ## 적용 시나리오
 
-[[llm-wiki]] 패턴이 잘 맞는 도메인 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md]:
+[[llm-wiki]] 패턴이 잘 맞는 도메인. 본 섹션의 5개 시나리오는 모두 Karpathy gist 원문 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md]:
 
-- **Personal**: 목표·헬스·심리·자기개선 — 저널·아티클·팟캐스트 노트를 filing해서 자기 자신에 대한 구조적 그림을 누적.
-- **Research**: 한 주제를 몇 주–몇 달 깊이 파면서 thesis를 진화시키는 위키 구축.
-- **Reading a book**: 챕터 단위로 filing, 인물·테마·플롯 페이지를 만들어 끝나면 [Tolkien Gateway](https://tolkiengateway.net/wiki/Main_Page) 스타일의 개인 companion 위키.
-- **Business/team**: Slack 스레드·미팅 transcript·프로젝트 문서·고객 통화를 입력으로 받는 내부 위키.
-- **그 외**: 경쟁사 분석, due diligence, 여행 계획, 강의 노트, 취미 deep-dive.
+- **Personal**: 목표·헬스·심리·자기개선 — 저널·아티클·팟캐스트 노트를 filing해서 자기 자신에 대한 구조적 그림을 누적 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md].
+- **Research**: 한 주제를 몇 주–몇 달 깊이 파면서 thesis를 진화시키는 위키 구축 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md].
+- **Reading a book**: 챕터 단위로 filing, 인물·테마·플롯 페이지를 만들어 끝나면 [Tolkien Gateway](https://tolkiengateway.net/wiki/Main_Page) 스타일의 개인 companion 위키 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md].
+- **Business/team**: Slack 스레드·미팅 transcript·프로젝트 문서·고객 통화를 입력으로 받는 내부 위키 [source: sources/articles/2026-05-18-karpathy-llm-wiki.md].
+- **그 외**: 경쟁사 분석, due diligence, 여행 계획, 강의 노트, 취미 deep-dive [source: sources/articles/2026-05-18-karpathy-llm-wiki.md].
 
 ## 핵심 통찰
 
