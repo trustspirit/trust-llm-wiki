@@ -58,7 +58,7 @@ sources: [sources/articles/2026-05-18-newsroom-church-ai-guiding-principles.md, 
 - **일반 원칙**: AI는 "individual effort or divine inspiration required for personal spiritual growth or genuine relationships with God and others"를 대체할 수 없음 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
 - **금지**: 회원은 AI를 거짓·오도·불법·해로운 컨텐츠 생성·배포에 사용하면 안 됨. AI 생성 결과의 정확성을 검증해야 함 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md].
 - **§38.8.48.1 Learning and Teaching**: "AI cannot replace the gift of divine inspiration or the individual work required to receive it." 가르침은 경전·살아 있는 선지자·성신의 가이드로 ([[divine-learning-pattern]] 참조) [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.1).
-- **§38.8.48.2 Relationships with God and Others**: AI는 신·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.2).
+- **§38.8.48.2 Relationships with God and Others**: AI는 하나님·타인과의 의미 있는 관계를 대체할 수 없음 — [[covenant-belonging|Thou·They·It·I]] 관계의 정책적 응답 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.2).
 - **§38.8.48.3 Callings and Assignments** — 4개 구체 원칙 [source: sources/notes/2026-05-18-general-handbook-38-8-48-ai.md] (§38.8.48.3):
   - 사용 시 교회 integrity·standards·teachings를 옹호하는 방식으로
   - 신적 영감이 필요한 말씀·교훈·기도·축복 준비는 AI로 대체할 수 없으나, research·editing·translation 등에는 helpful

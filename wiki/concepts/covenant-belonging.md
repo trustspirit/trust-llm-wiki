@@ -12,8 +12,8 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 
 ## 정의
 
-- "Covenant belonging defines our real lived relationships through God-given covenants, not simply temporal contracts" — 일시적 계약(contract)이 아니라 신이 주신 언약(covenant)을 통한 실제 관계로 정의 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
-- 신이 부여한 도덕 행위성(God-given moral agency)이 작동하는 장 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
+- "Covenant belonging defines our real lived relationships through God-given covenants, not simply temporal contracts" — 일시적 계약(contract)이 아니라 하나님께서 주신 언약(covenant)을 통한 실제 관계로 정의 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
+- 하나님께서 부여하신 도덕적 선택의지(God-given moral agency)가 작동하는 장 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 
 ## Thou–They–It–I 4원 관계
 
@@ -26,7 +26,7 @@ sources: [sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.
 | **It** | 자연·환경 | harmony (조화) |
 | **I** | 자기 자신 | clarity (명료함) |
 
-> **Synthesis** (from: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md): Elder Gong은 같은 4원 관계를 두 무대에서 다른 순서로 호명한다 — Istanbul (2025-07): **"I-It-They-Thou"** (자신에서 시작해 신으로 상승); Rome (2025-10): **"Thou–They–It–I"** (신에서 시작해 자신으로 하강). Istanbul 본문은 명시적 해설을 더한다: 수직(Thou)·수평(They)이 기독교 전통의 첫째·둘째 큰 계명(신·이웃 사랑)에 대응하고, 자신(I)·환경(It)이 그에 더해진다.
+> **Synthesis** (from: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md): Elder Gong은 같은 4원 관계를 두 무대에서 다른 순서로 호명한다 — Istanbul (2025-07): **"I-It-They-Thou"** (자신에서 시작해 하나님으로 상승); Rome (2025-10): **"Thou–They–It–I"** (하나님에서 시작해 자신으로 하강). Istanbul 본문은 명시적 해설을 더한다: 수직(Thou)·수평(They)이 기독교 전통의 첫째·둘째 큰 계명(하나님·이웃 사랑)에 대응하고, 자신(I)·환경(It)이 그에 더해진다.
 
 ## AI 윤리와의 연결
 

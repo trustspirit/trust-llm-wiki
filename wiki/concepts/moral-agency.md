@@ -1,7 +1,7 @@
 ---
 title: Moral Agency
 type: concept
-aliases: [agency, 도덕 행위성, agent-vs-object]
+aliases: [agency, 도덕적 선택의지, agent-vs-object]
 updated: 2026-05-18
 sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md, sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md, sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md, sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md]
 ---
@@ -13,7 +13,7 @@ sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, 
 ## 정의
 
 - Elder Bednar의 어원 분해: *moral* = good, honest, virtuous, honorable; *agency* = action, activity, work. 합쳐서 "선·정직·덕·명예에 따라 스스로 선택하고 행동할 능력과 특권" [source: sources/articles/2026-05-18-bednar-things-as-they-really-are-2-0.md].
-- 교의적 정의: 하나님의 창조물은 "things to act"와 "things to be acted upon"으로 나뉘며, moral agency는 자녀가 "agents to act" 쪽이 되도록 신이 부여한 "power of independent action" [source: sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md].
+- 교의적 정의: 하나님의 창조물은 "things to act"와 "things to be acted upon"으로 나뉘며, moral agency는 자녀가 "agents to act" 쪽이 되도록 하나님께서 부여하신 "power of independent action" [source: sources/articles/2026-05-18-bednar-consider-the-wondrous-works-of-god.md].
 - 약식 호칭: 단순 "agency"로도 쓰이며, 일반 영어의 "free will"과는 구분된다 — 신학적·도덕적 함의가 명시적.
 
 ## Agents vs. Objects 이분법
@@ -46,7 +46,7 @@ sources: [sources/articles/2026-05-18-bednar-things-as-they-really-are-2009.md, 
 
 ## [[covenant-belonging]]과의 관계
 
-- Elder Gong: covenant belonging은 "God-given moral agency"에 의해 활성화되며, Thou–They–It–I 4원 관계가 도덕 행위성의 작동 무대 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
+- Elder Gong: covenant belonging은 "God-given moral agency"에 의해 활성화되며, Thou–They–It–I 4원 관계가 도덕적 선택의지의 작동 무대 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - "Spirit, element, and human moral agency are at the heart of our capacity to grow through intentional choice" — Elder Gong BYU 2025-08 [source: sources/articles/2026-05-18-gong-an-ear-to-wisdom-a-heart-to-understanding.md].
 
 ## See also

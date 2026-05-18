@@ -39,8 +39,8 @@ METR가 측정한 진보 속도 (Istanbul footnote viii): "the length of tasks A
 
 ## "Godlike AI" 담론에 대한 비판
 
-- [[gerrit-gong]]: "AI가 신이 된다"거나 "godlike AI"라는 표현이 너무 가볍게 쓰인다. AGI나 ASI를 달성하더라도 "God is God. AI is not and cannot be God"이다 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
-- 인간은 신의 피조물로서 AI를 만들 수 있지만, AI는 신을 창조할 수 없다 — 비대칭 관계 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
+- [[gerrit-gong]]: "AI가 하나님이 된다"거나 "godlike AI"라는 표현이 너무 가볍게 쓰인다. AGI나 ASI를 달성하더라도 "God is God. AI is not and cannot be God"이다 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
+- 인간은 하나님의 피조물로서 AI를 만들 수 있지만, AI는 하나님을 창조할 수 없다 — 비대칭 관계 [source: sources/articles/2026-05-18-elder-gong-faith-respect-moral-compass-ai.md].
 - Istanbul 추가 논거 — "AI training data is sourced by humans; AI's moral and ethical principles are only those its creators consciously inject and align"; AGI/ASI를 달성해도 "reasoning — even superhuman reasoning — has limitations" [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 - Tower of Babel 비유 — "Those who seek to deify AI may unwittingly discover a modern Tower of Babel" [source: sources/articles/2026-05-18-gong-istanbul-faith-ethics-ai-call-to-action.md].
 

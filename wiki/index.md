@@ -25,7 +25,7 @@ updated: 2026-05-18
 - [[faith-and-ethics-ai-evaluation]] — 다원주의 신앙·윤리 AI 벤치마크 (7개 루브릭)
 - [[church-ai-guiding-principles]] — 예수 그리스도 후기성도 교회의 2024 공식 AI 사용 원칙 (7-원칙/4-영역)
 - [[covenant-belonging]] — Gong의 Thou–They–It–I 4원 관계 프레임
-- [[moral-agency]] — 자녀가 agent로 행동할 수 있도록 신이 부여한 power of independent action
+- [[moral-agency]] — 자녀가 agent로 행동할 수 있도록 하나님께서 부여하신 power of independent action
 - [[things-as-they-really-are]] — Bednar의 디지털·AI 시대 진리·실재 분석 프레임
 - [[ai-companions]] — AI 가상 동반자의 영적·관계적 위험
 - [[deepfakes]] — AI가 만든 위조 인물·미디어, Elder Gong의 3가지 면역 자원
